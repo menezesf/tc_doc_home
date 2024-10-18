@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>  
+<title>Teamcenter 2312 Documentation Home</title>
+<style type="text/css">
+html{ scroll-behavior: smooth; }
+h1 {font-family:'Arial'; text-align: center; color:#000028;}
+p {font-family:'Arial'; font-size:15px; text-align: center; color:#009999;}
+.footer {font-family:'Open Sans','Arial'; text-align: left; color:#666666; font-size:12px; padding-left:25px;margin-top:0px;}
+.feedback_footer {font-family:'Open Sans','Arial'; text-align: left; color:#000028; font-size:15px; padding-left:25px; margin-top:0px;}
+a {color:#0098A6; text-decoration:none; }
+a:hover {color:#00708C ;}
+hr {
+	color:#666666;
+	vertical-align:bottom;
+	margin-left:25px;
+	margin-right:25px;
+	
+      }
+#myBtn {
+		position: fixed;
+		right: .5rem;
+		bottom: .5rem;
+		width: 2.5rem;
+		height: 2.5rem;
+		border-radius: 50%;
+		background: url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-110 -55 600 600'%3E%3Cpath fill='white' d='M352 352c-8.188 0-16.38-3.125-22.62-9.375L192 205.3l-137.4 137.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l160-160c12.5-12.5 32.75-12.5 45.25 0l160 160c12.5 12.5 12.5 32.75 0 45.25C368.4 348.9 360.2 352 352 352z'%3E%3C/path%3E%3C/svg%3E") center no-repeat;
+		display: none;	
+        position: fixed;
+		z-index: 99;				
+		border: none;
+		outline: none; 
+		background-color: #66667E;
+		cursor: pointer;
+		opacity: 0.7;
+		padding: 0px;
+		}
+#myBtnFeed { 
+		font-family:'Arial'; font-size:15px; color:#000028; color:white; text-align: center;
+		position: fixed;		
+		right:-3.2em;
+		bottom: 50%;
+		width: 9rem;
+		height: 2rem;
+		border-radius: 0%;	
+		position: fixed;
+		z-index: 99;				
+		border: none;
+		outline: none; 
+		background-color: #66667E;
+		cursor: pointer;
+		opacity: 0.9;
+		display: block;	
+		padding: 0px;
+		vertical-align: middle;	
+		rotate: -90deg;	
+		
+		}
+		
+.icon {
+        width: 1.8em;
+        display: inline;       
+		vertical-align: middle ;  
+		
+    }
+		
+#myBtn:hover, #myBtnFeed:hover {opacity: 1; background-color:#00557D;}		
+</style>
+ 
+</head>  
+<body>
+<h1>Teamcenter documentation: What can we help you find today?</h1>
+<p>Explore the categories below or use Ctrl+F to find what you are looking for.</p> 
+
+<button type="button" id="myBtn" onclick="myFunction()"></button>
+
+<a href= "mailto: tc.docs.disw@siemens.com">
+<button type="button" id="myBtnFeed">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="icon" viewBox="80 0 512 512">
+  <path fill='white' d="M140.8,111.5h256c11.4,0,21.8,4.1,29.8,11,9.9,8.5,16.2,21.1,16.2,35.1v163.8c0,12.7-5.2,24.3-13.6,32.6-8.3,8.3-19.8,13.4-32.5,13.4h-133.6c-.6,0-1.2.1-1.8.3-.6.2-1.1.5-1.5.9l-91.9,83.3,8.2-79.5c0-1.4-.6-2.7-1.5-3.6s-2.2-1.5-3.6-1.5h-30.3c-13,0-24.8-5.4-33.2-14.2-8-8.3-12.9-19.5-12.9-31.9v-163.8c0-13.1,5.5-24.9,14.2-33.3,8.3-7.9,19.5-12.8,31.9-12.8Z"/>
+</svg>Write to us
+</button></a>
+
+
+<object id="svg1" type="image/svg+xml" data="landing_page.svg">
+<img src="landing_page.svg" />
+</object>
+<p class="feedback_footer" ><svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="icon" viewBox="80 0 512 512">
+  <path fill='#66667E' d="M140.8,111.5h256c11.4,0,21.8,4.1,29.8,11,9.9,8.5,16.2,21.1,16.2,35.1v163.8c0,12.7-5.2,24.3-13.6,32.6-8.3,8.3-19.8,13.4-32.5,13.4h-133.6c-.6,0-1.2.1-1.8.3-.6.2-1.1.5-1.5.9l-91.9,83.3,8.2-79.5c0-1.4-.6-2.7-1.5-3.6s-2.2-1.5-3.6-1.5h-30.3c-13,0-24.8-5.4-33.2-14.2-8-8.3-12.9-19.5-12.9-31.9v-163.8c0-13.1,5.5-24.9,14.2-33.3,8.3-7.9,19.5-12.8,31.9-12.8Z"/>
+</svg>We value your input and feedback on the Teamcenter documentation. <a href= "mailto: tc.docs.disw@siemens.com">Do write to us</a>.</p>
+<hr>
+<p class="footer" >1st Stop: Teamcenter Documentation Home, Teamcenter 2406<br> © 2024 Siemens </br></p>
+<p></p>
+ 
+<script>
+
+// scroll to top 
+function myFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, Edge  
+  checkReady();
+  
+}
+
+function checkReady() {
+		var mysvg = document.getElementById("svg1").contentDocument;
+		
+		if (mysvg == null) {
+		
+			setTimeout("checkReady()", 300);
+		} else {
+			
+			mysvg.clearFunction();
+		}
+	}
+
+// When the user scrolls run scrollFunction
+window.onscroll = function() {scrollFunction()};
+
+// When the user scrolls down 20px from the top of the document, show the button
+function scrollFunction() {	
+	y = window.scrollY;	
+	if (y >= 20) {     
+		document.getElementById("myBtn").style.display = "block";
+	} else {
+		document.getElementById("myBtn").style.display = "none";
+  }
+  
+}
+
+
+
+</script>
+</body>  
+</html>  
