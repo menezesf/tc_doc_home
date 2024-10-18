@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" 
+	 viewBox="0 130 1958 5380" style="enable-background:new 0 0 1958 5260;" xml:space="preserve">
+	 
+<style type="text/css">
+	 
+	.st0{fill:#000028; }
+	.st1{font-family:'Microsoft Sans Serif', 'Arial';  }
+	.st2{font-size:45px; pointer-events: none;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#00557D;}
+	.st3:hover{fill:#66667E;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-size:23px; pointer-events: none; text-anchor: middle; dominant-baseline: central;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#01486A;}
+	.st6:hover{fill:#66667E;}
+	.st7{fill:#00FFB9;}
+	.st8{font-size:22px; pointer-events: none; text-anchor: middle; dominant-baseline: central;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF; filter: drop-shadow(2px 2px 5px rgb(0 0 0 / 0.2));}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:none; white-space: normal;}
+	.st11{fill:#00557C; }
+	.st11:hover{fill:#00d7a0;}
+	.st12{font-family:'Arial'; dominant-baseline: hanging;}
+	.st13{font-size:20px;}
+	.st14{fill:#66667E;}
+	.st15{font-size:32px; pointer-events: none;}
+	.st16{fill-rule:evenodd;clip-rule:evenodd;fill:#00FFB9;}
+	.st17{fill:#66667E;enable-background:new    ;}
+	.st18{fill:none;stroke:#66667E;stroke-width:1.535;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#66667E;stroke-width:2;stroke-miterlimit:10;}
+	.st20{fill:#66667E; stroke:#66667E;stroke-miterlimit:10;}
+	.st21{fill:#FFFFFF;}
+	.st22{fill:none;}
+	.st23{fill:#666666;}
+	.st24{font-family:'Open Sans';}
+	.st25{font-size:11.5px;}
+	.st26{fill:none;stroke:#999999;stroke-miterlimit:10;}
+	.st27{position: relative;}
+	</style>
+
+
+<g id="header_bg">
+	<rect y="125" class="st0" width="1958" height="316"/>
+</g>
+<!--<g id="title"> 
+<path id="p" class="st3" d="M1586.1,373.9H1725c9.7,0,17.5,7.8,17.5,17.5v4c0,9.7-7.8,17.5-17.5,17.5h-138.9c-9.7,0-17.5-7.8-17.5-17.5
+			v-4C1568.6,381.7,1576.4,373.9,1586.1,373.9z"/>
+	<text transform="matrix(1 0 0 1 350 85.3502)" class="st0 st1 st2">Teamcenter documentation: What can we help you find today?</text>
+</g> -->
+
+<g id="header_content">
+	<svg id="head_row0" class="st27">
+	<g><a xlink:href="/en-US/doc/282219420/PL20231129261301184.whats_new" target="_blank">
+		<rect class="st6" x="0" y="156" width="0" height="44" rx="20px" ry="20px" />
+		<text x="0" y ="0" class="st7 st1 st8">What's New</text>
+	</a></g>
+	<g><a xlink:href="/en-US/doc/282219420/PL20231129261301184.tc_rel_bul" target="_blank">
+		<rect class="st6" x="0" y="156" width="0" height="44" rx="20px" ry="20px" />
+		<text x="0" y ="0" class="st7 st1 st8">Release Bulletin</text>
+	</a></g>
+	<g><a id="fundlink" onclick="focusFunction(this.id)" xlink:href="#fundabox">
+		<rect class="st6" x="0" y="156" width="0" height="44" rx="20px" ry="20px" />
+		<text x="0" y ="0" class="st7 st1 st8">Fundamentals</text>
+	</a></g>
+	<g><a id="deplink" onclick="focusFunction(this.id)" xlink:href="#depbox">
+		<rect class="st6" x="0" y="156" width="0" height="44" rx="20px" ry="20px" />
+		<text x="0" y ="0" class="st7 st1 st8">Deployment</text>
+	</a></g>
+	<g><a id="custlink" onclick="focusFunction(this.id)" xlink:href="#custbox">
+		<rect class="st6" x="0" y="156" width="0" height="44" rx="20px" ry="20px" />
+		<text x="0" y ="0" class="st7 st1 st8">Customization</text>
+	</a></g>		
+	<g><a id="adminlink" onclick="focusFunction(this.id)" xlink:href="#adminbox">
+		<rect class="st6" x="0" y="156" width="0" height="44" rx="20px" ry="20px" />
+		<text x="0" y ="0" class="st7 st1 st8">Administration</text>
+	</a></g>
+	
+	<g><a xlink:href="/en-US/doc/282219420/PL20231129261301184.tc_video_gallery" target="_blank">
+		<rect class="st6" x="0" y="156" width="0" height="44" rx="20px" ry="20px" />
+		<text x="0" y ="0" class="st7 st1 st8">Videos</text>
+	</a></g>
+	
+	</svg>
+	<svg id="head_row1">
+	<g><a id="bomlink" onclick="focusFunction(this.id)" xlink:href="#bombox">
+		<rect class="st3" x="0" y="241" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">BOM Management</text>
+	</a></g>
+	<g><a id="classlink" onclick="focusFunction(this.id)" xlink:href="#classbox">
+		<rect class="st3" x="0" y="242" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Classification</text>
+	</a></g>
+	<g><a id="doclink" onclick="focusFunction(this.id)" xlink:href="#docbox">
+		<rect class="st3" x="0" y="241" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Document and Content Management </text>
+	</a></g>
+	<g><a id="ecadlink" onclick="focusFunction(this.id)" xlink:href="#ecadbox">
+		<rect class="st3" x="0" y="241" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">ECAD Management</text>
+	</a></g>
+	<g><a id="indlink" onclick="focusFunction(this.id)" xlink:href="#indbox">
+		<rect class="st3" x="0" y="241" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Industry Solutions</text>
+	</a></g>		
+	</svg>	
+	<svg id="head_row2">
+	<g><a id="mfglink" onclick="focusFunction(this.id)" xlink:href="#mfgbox">
+		<rect class="st3" x="0" y="306" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Manufacturing</text>
+	</a></g>
+	<g><a id="proclink" onclick="focusFunction(this.id)" xlink:href="#procbox">
+		<rect class="st3" x="0" y="306" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Process and Program Management</text>
+	</a></g>
+	<g><a id="configlink" onclick="focusFunction(this.id)" xlink:href="#configbox">
+		<rect class="st3" x="0" y="306" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Product Configuration</text>
+	</a></g>
+	<g><a id="qualink" onclick="focusFunction(this.id)" xlink:href="#quabox">
+		<rect class="st3" x="0" y="306" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Quality</text>
+	</a></g>
+	<g><a id="slmlink" onclick="focusFunction(this.id)" xlink:href="#slmbox">
+		<rect class="st3" x="0" y="306" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Service Lifecycle Management</text>
+	</a></g>	
+	</svg>
+	
+<svg id="head_row3">
+	<g><a id="simlink" onclick="focusFunction(this.id)" xlink:href="#simbox">
+		<rect class="st3" x="0" y="373" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Simulation Management</text>
+	</a></g>
+	<g><a id="sublink" onclick="focusFunction(this.id)" xlink:href="#subbox">		
+		<rect class="st3" x="0" y="373" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Substance Compliance </text>
+	</a></g>
+	<g><a id="suppcolink" onclick="focusFunction(this.id)" xlink:href="#suppbox">
+		<rect class="st3" x="0" y="373" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Supplier Management</text>
+	</a></g>	
+	<g><a id="syslink" onclick="focusFunction(this.id)" xlink:href="#sysbox">
+		<rect class="st3" x="0" y="373" width="0" height="39" rx="20px" ry="20px" />
+		<text class="st4 st1 st5" x="0" y ="0">Systems Engineering </text>
+	</a></g>
+	<g><a id="vislink" onclick="focusFunction(this.id)" xlink:href="#visbox" >		
+		<rect class="st3" x="0" y="373" width="0" height="39" rx="20px" ry="20px" />	
+		<text class="st4 st1 st5" x="0" y ="0">Visualization</text>
+	</a></g>	
+	</svg>
+
+</g>
+<g id="col1">
+
+	<g id="admin">					
+		<rect id="adminbox" class="st9" x="20" y="490" rx="15" ry="15" height="0" width="610" />
+		
+		<rect x="39" y="658" class="st10" width="592" height="0"/>
+		<text id="admintxt" transform="matrix(1 0 0 1 39 662)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.project" target="_blank"><tspan x="0" dy="0" class="st12 st13">Access Management Using Projects and Programs</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.access_manager" target="_blank"><tspan x="0" dy="40" class="st12 st13">Access Management Using Rules and ACLs</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.AWAdmin" target="_blank"><tspan x="0" dy="40" class="st12 st13">Active Workspace Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00022" target="_blank"><tspan x="0" dy="40" class="st12 st13">Audit Logs Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00071" target="_blank"><tspan x="0" dy="40" class="st12 st13">BMIDE for Data Model Design</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.briefcase_browser" target="_blank"><tspan x="0" dy="40" class="st12 st13">Briefcase Browser</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.SearchIndexDeploy" target="_blank"><tspan x="0" dy="40" class="st12 st13">Data Indexing and Search Configuration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00565" target="_blank"><tspan x="0" dy="40" class="st12 st13">Dispatcher – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.multi-site" target="_blank"><tspan x="0" dy="40" class="st12 st13">Multi-Site Collaboration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.organization" target="_blank"><tspan x="0" dy="40" class="st12 st13">Organization Management Using Groups, Roles, and Users</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00108" target="_blank"><tspan x="0" dy="40" class="st12 st13">Product Data Validation</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00039" target="_blank"><tspan x="0" dy="40" class="st12 st13">Report Management Using Report Builder</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.query_builder" target="_blank"><tspan x="0" dy="40" class="st12 st13">Search and Query Builder</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1665234" target="_blank"><tspan x="0" dy="40" class="st12 st13">Search Guidemap</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00101" target="_blank"><tspan x="0" dy="40" class="st12 st13">Security Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.tss00001" target="_blank"><tspan x="0" dy="40" class="st12 st13">Security Services Configuration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00035" target="_blank"><tspan x="0" dy="40" class="st12 st13">Subscription Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00102" target="_blank"><tspan x="0" dy="40" class="st12 st13">System Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00030" target="_blank"><tspan x="0" dy="40" class="st12 st13">Tc XML and PLM XML Configuration for Data Import and Export</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.AdminDataReport" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 Administration Data Documentation</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.DataModelReport" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 Data Model Documentation</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00094" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Data Exchange</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00026" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Environment Variables</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.localization_guide" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Localization</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.managing_prefs" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Preferences</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2130794" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Security</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2016716" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Share</tspan></a>		
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.utilities_reference" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Utilities</tspan></a>		
+		</text>		
+		<text transform="matrix(1 0 0 1 125.0957 603.313)" class="st14 st1 st15">Administration</text>
+		<path id="hor_line" class="st16" d="M39.6,629.8H612v2.9H39.6V629.8z"/>
+		<path class="st14" d="M67.4,536.3c-7.8,0-14.1,6.7-14.1,15c0,8.3,6.3,15,14.1,15s14.1-6.7,14.1-15C81.5,543,75.2,536.3,67.4,536.3z
+			 M67.4,538.2c6.7,0,12.2,5.9,12.2,13.1c0,7.2-5.5,13.1-12.2,13.1s-12.2-5.9-12.2-13.1C55.3,544.1,60.7,538.2,67.4,538.2z M67,572.6
+			c-12.9,0-24.1,6.9-27.9,17.1c-1.2,3.3,1.3,6.7,4.7,6.7h34.7c-0.2-0.6-0.4-1.2-0.5-1.9H43.9c-2.5,0-3.5-2.5-3-4.2
+			c3.2-9.6,14-15.8,26.1-15.8c6.6,0,12.7,1.9,17.4,5.2c0.6-0.4,1.3-0.7,2-1C81.2,574.8,74.4,572.6,67,572.6z M90.7,579.4
+			c-0.5,0-1,0.4-1.1,0.9l-0.3,1.9c-0.8,0.2-1.6,0.5-2.3,0.9l-1.6-1.1c-0.4-0.3-1-0.3-1.4,0.1l-1.6,1.6c-0.4,0.4-0.4,1-0.1,1.4
+			l1.1,1.6c-0.4,0.7-0.7,1.5-0.9,2.3l-1.9,0.3c-0.5,0.1-0.9,0.6-0.9,1.1v2.2c0,0.5,0.4,1,0.9,1.1l1.9,0.3c0.2,0.8,0.5,1.6,0.9,2.3
+			l-1.1,1.6c-0.3,0.4-0.3,1,0.1,1.4L84,601c0.4,0.4,1,0.4,1.4,0.1L87,600c0.7,0.4,1.5,0.7,2.3,0.9l0.3,1.9c0.1,0.5,0.6,0.9,1.1,0.9
+			h2.2c0.5,0,1-0.4,1.1-0.9l0.3-1.9c0.8-0.2,1.6-0.5,2.3-0.9l1.6,1.1c0.4,0.3,1,0.3,1.4-0.1l1.6-1.6c0.4-0.4,0.4-1,0.1-1.4l-1.1-1.6
+			c0.4-0.7,0.7-1.5,0.9-2.3l1.9-0.3c0.5-0.1,0.9-0.6,0.9-1.1v-2.2c0-0.5-0.4-1-0.9-1.1l-1.9-0.3c-0.2-0.8-0.5-1.6-0.9-2.3l1.1-1.6
+			c0.3-0.4,0.3-1-0.1-1.4l-1.6-1.6c-0.4-0.4-1-0.4-1.4-0.1l-1.6,1.1c-0.7-0.4-1.5-0.7-2.3-0.9l-0.3-1.9c-0.1-0.5-0.6-0.9-1.1-0.9
+			H90.7z M91.8,586.8c2.7,0,4.9,2.2,4.9,4.9c0,2.7-2.2,4.9-4.9,4.9s-4.9-2.2-4.9-4.9C86.9,588.9,89.1,586.8,91.8,586.8z"/>
+	</g>
+
+
+	<g id="dep">
+		<rect id="depbox" class="st9" x="20" y="1879" rx="15" ry="15" height="0" width="610"/>
+		
+		<rect x="40" y="2065" class="st10" width="590" height="0"/>
+		<text id="deptxt" transform="matrix(1 0 0 1 40.0869 2065)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.deployment_center" target="_blank"><tspan x="0" dy="0" class="st12 st13">Deployment Center – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00565" target="_blank"><tspan x="0" dy="40" class="st12 st13">Dispatcher – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00027" target="_blank"><tspan x="0" dy="40" class="st12 st13">Linked Data Framework</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.multi-site" target="_blank"><tspan x="0" dy="40" class="st12 st13">Multi-Site Collaboration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1661715" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Deployment Guidemap</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.dep_ref_arch" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Deployment Reference Architecture</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00128" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Environment Manager – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00026" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Environment Variables</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.teamcenter_teams_integration" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter for Microsoft Teams – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.teamcenter_teams_usage" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter for Microsoft Teams – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.server_unix" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Installation on Linux Using TEM</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.server_win" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Installation on Windows Using TEM</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.installingTcDc" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Installation Using Deployment Center</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.tcif_guide" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Integration Framework</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1900695" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter OData API Framework</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.managing_prefs" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Preferences</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.client_unix" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Rich Client Installation on Linux</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.client_win" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Rich Client Installation on Windows</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00142" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Site Consolidation</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.upgrade_guide" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Upgrade</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.utilities_reference" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Utilities</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00180" target="_blank"><tspan x="0" dy="40" class="st12 st13">Transition from Teamcenter Enterprise to Teamcenter</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00015" target="_blank"><tspan x="0" dy="40" class="st12 st13">Web Application Deployment</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00088" target="_blank"><tspan x="0" dy="40" class="st12 st13">Wiring Harness Design Tools Integration With Teamcenter</tspan></a>
+						
+		</text>
+		<text transform="matrix(1 0 0 1 125 2000)" class="st14 st1 st15">Deployment</text>
+		<path id="hor_line" class="st16" d="M39.6,2030.8H612v2.9H39.6V2100.8z"/>
+		<svg x="0px" y="-10px"><path class="st14" d="M51.3,1938.5c-1.4,0-2.6,1.2-2.6,2.6v34.1c0,1.4,1.2,2.6,2.6,2.6h47.2c1.4,0,2.6-1.2,2.6-2.6v-34.1
+			c0-1.4-1.2-2.6-2.6-2.6H51.3z M51.3,1941.1h47.2v34.1H51.3V2011.1z M67.7,1942.7c-1.8,0-3.3,1.5-3.3,3.3s1.5,3.3,3.3,3.3h14.4
+			c1.8,0,3.3-1.5,3.3-3.3s-1.5-3.3-3.3-3.3H67.7z M67.7,1945.3h14.4c0.4,0,0.7,0.3,0.7,0.7s-0.3,0.7-0.7,0.7H67.7
+			c-0.4,0-0.7-0.3-0.7-0.7S67.3,1945.3,67.7,1945.3z M51.3,1985.4c-6.5,0-11.8,5.3-11.8,11.8s5.3,11.8,11.8,11.8H105v-2.6H51.3
+			c-5.1,0-9.2-4.1-9.2-9.2s4.1-9.2,9.2-9.2H105v-2.6H51.3z M52.6,1989.7c-3.6,0-6.6,2.9-6.6,6.6s2.9,6.6,6.6,6.6
+			c3.6,0,6.6-2.9,6.6-6.6S56.2,1989.7,52.6,1989.7z M74.9,1989.7c-3.6,0-6.6,2.9-6.6,6.6s2.9,6.6,6.6,6.6c3.6,0,6.6-2.9,6.6-6.6
+			S78.5,1989.7,74.9,1989.7z M98.4,1989.7c-3.6,0-6.6,2.9-6.6,6.6s2.9,6.6,6.6,6.6c3.6,0,6.6-2.9,6.6-6.6S102.1,1989.7,98.4,1989.7z
+			 M52.6,1993.3c2.2,0,3.9,1.7,3.9,3.9s-1.7,3.9-3.9,3.9s-3.9-1.7-3.9-3.9S50.4,1993.3,52.6,1993.3z M74.9,1993.3
+			c2.2,0,3.9,1.7,3.9,3.9s-1.7,3.9-3.9,3.9c-2.2,0-3.9-1.7-3.9-3.9S72.7,1993.3,74.9,1993.3z M98.4,1993.3c2.2,0,3.9,1.7,3.9,3.9
+			s-1.7,3.9-3.9,3.9c-2.2,0-3.9-1.7-3.9-3.9S96.3,1993.3,98.4,1993.3z"/></svg>
+		
+	</g>
+	
+	<g id="process">
+		<rect id="procbox" class="st9" x="20" y="3030" rx="15" ry="15" height="0" width="610"/>
+			
+		<rect x="40" y="3224" class="st10" width="591" height="0"/>
+		<text id="proctxt" transform="matrix(1 0 0 1 40 3214)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00140" target="_blank"><tspan x="0" dy="0" class="st12 st13">Change Management – Deployment and Rich Client Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1337774" target="_blank"><tspan x="0" dy="40" class="st12 st13">Change Management on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.ilm" target="_blank"><tspan x="0" dy="40" class="st12 st13">Initiative Lifecycle Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.ilm_cpg" target="_blank"><tspan x="0" dy="40" class="st12 st13">Initiative Lifecycle Management – CPG Reference Implementation</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.initiative_planning" target="_blank"><tspan x="0" dy="40" class="st12 st13">Initiative Planning</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.ippe" target="_blank"><tspan x="0" dy="40" class="st12 st13">Integrated Program Planning and Execution</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00141" target="_blank"><tspan x="0" dy="40" class="st12 st13">Issue Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1337773" target="_blank"><tspan x="0" dy="40" class="st12 st13">Problem Reporting</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.ProgramPlanning" target="_blank"><tspan x="0" dy="40" class="st12 st13">Program Planning</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00054" target="_blank"><tspan x="0" dy="40" class="st12 st13">Schedule Management – Deployment and Rich Client Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1337775" target="_blank"><tspan x="0" dy="40" class="st12 st13">Schedule Management on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1760350" target="_blank"><tspan x="0" dy="40" class="st12 st13">Workflow Designer on Active Workspace</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.workflow_designer" target="_blank"><tspan x="0" dy="40" class="st12 st13">Workflow Designer on Rich Client </tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1760236" target="_blank"><tspan x="0" dy="40" class="st12 st13">Workflow Handlers</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1337781" target="_blank"><tspan x="0" dy="40" class="st12 st13">Workflows and Tasks on Active Workspace</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.workflow_viewer" target="_blank"><tspan x="0" dy="40" class="st12 st13">Workflows and Tasks on Rich Client</tspan></a>
+		
+		</text>
+		<text transform="matrix(1 0 0 1 125.0957 3149)">
+		<tspan x="0" y="-36" class="st14 st1 st15">Process and</tspan><tspan x="0" y="2" class="st14 st1 st15">Program Management</tspan>
+		</text>
+		<path id="hor_line" class="st16" d="M39.6,3181.8H612v2.9H39.6V3370.8z"/>
+		<svg x="0px" y="-193px"><path class="st14" d="M61.9,3285.5c-2.1,0-3.7,1.7-3.7,3.7v6.6H60v-6.6c0-1,0.8-1.8,1.8-1.8h30.8v55.7H61.9c-1,0-1.8-0.8-1.8-1.8
+			v-7.2h-1.9v7.2c0,2.1,1.7,3.7,3.7,3.7h42.4c2.1,0,3.7-1.7,3.7-3.7v-52c0-2.1-1.7-3.7-3.7-3.7H61.9z M94.6,3287.4h9.7
+			c1,0,1.8,0.8,1.8,1.8v11.6H94.6V3287.4z M94.6,3302.8h11.5v12.5H94.6V3302.8z M94.6,3317.2h11.5v12.5H94.6V3317.2z M94.6,3331.6
+			h11.5v9.7c0,1-0.8,1.8-1.8,1.8h-9.7V3331.6z M51.1,3301.1c-0.3,0-0.5,0.2-0.5,0.5v4.7h-6.3c-0.3,0-0.5,0.2-0.5,0.5v13.1h-4.2
+			c-0.3,0-0.5,0.2-0.5,0.5v8.4c0,0.3,0.2,0.5,0.5,0.5H49c0.3,0,0.5-0.2,0.5-0.5v-8.4c0-0.3-0.2-0.5-0.5-0.5h-4.2v-12.6h5.8v4.7
+			c0,0.3,0.2,0.5,0.5,0.5h7.4v7.4h-4.2c-0.3,0-0.5,0.2-0.5,0.5v8.4c0,0.3,0.2,0.5,0.5,0.5h9.5c0.3,0,0.5-0.2,0.5-0.5v-8.4
+			c0-0.3-0.2-0.5-0.5-0.5h-4.2v-7.4h7.4c0.3,0,0.5-0.2,0.5-0.5v-4.7h5.8v12.6H69c-0.3,0-0.5,0.2-0.5,0.5v8.4c0,0.3,0.2,0.5,0.5,0.5
+			h9.5c0.3,0,0.5-0.2,0.5-0.5v-8.4c0-0.3-0.2-0.5-0.5-0.5h-4.2v-13.1c0-0.3-0.2-0.5-0.5-0.5h-6.3v-4.7c0-0.3-0.2-0.5-0.5-0.5H51.1
+			L51.1,3301.1z"/></svg>
+	</g>
+
+	<g id="slm">
+		
+		<rect id="slmbox" class="st9" x="20" y="3970" rx="15" ry="15" height="0" width="610"/>
+				
+		<rect x="40" y="3910" class="st10" width="591" height="0"/>
+		<text id="slmtxt" transform="matrix(1 0 0 1 40 4149)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20230621364606047.As-Built_Manager" target="_blank"><tspan x="0" dy="0" class="st11 st12 st13">As-Built Manager</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20230621364606047.xid2017459/xid2018327" target="_blank"><tspan x="0" dy="40" class="st11 st12 st13">Service Engineering</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20230621364606047.Service_Lifecycle_Management/xid2011322" target="_blank"><tspan x="0" dy="40" class="st11 st12 st13">Service Lifecycle Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20230621364606047.Service_Manager" target="_blank"><tspan x="0" dy="40" class="st11 st12 st13">Service Manager</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20230621364606047.Service_Planner" target="_blank"><tspan x="0" dy="40" class="st11 st12 st13">Service Planner</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20230621364606047.xid2276207/xid2276229" target="_blank"><tspan x="0" dy="40" class="st11 st12 st13">Service Work Instruction</tspan></a>	
+		</text>
+		<text transform="matrix(1 0 0 1 125 4084)" class="st14 st1 st15">Service Lifecycle Management</text>
+		<path id="hor_line" class="st16" d="M39.6,4114.8H612v2.9H39.6V4263.8z"/>
+		<svg x="0px" y="-169px">
+		<path class="st14" d="M56.1,4205.8l-2.7,2.7c-1.3,1.3-1.2,3.6,0.3,4.7l11,8.5c0.3,0.2,0.7,0.2,0.9-0.1c0.2-0.3,0.2-0.7-0.1-0.9
+				l-11-8.5c-0.9-0.7-1-2-0.2-2.8l2.7-2.7c0.8-0.8,2.1-0.7,2.8,0.2l8.8,11.6c0.4,0.5,0.3,1.2-0.1,1.6l-4.2,4.2c-0.8,0.8-0.8,2,0,2.8
+				c0.8,0.8,2,0.8,2.8,0l2.4-2.4l9.1,9.1l0.6,3c0,0.2,0.2,0.4,0.3,0.4l5.1,2.6c0.2,0.1,0.5,0.1,0.7-0.1l1.9-1.9
+				c0.2-0.2,0.2-0.5,0.1-0.7l-2.6-5.1c-0.1-0.2-0.2-0.3-0.4-0.3l-3-0.6l-9.1-9.1l2.1-2.1c0,0,0,0,0,0c0.2-0.3,0.2-0.6,0-0.9
+				c-0.3-0.2-0.6-0.2-0.9,0l-2.5,2.5c-0.2,0.2-0.2,0.6,0,0.9l9.7,9.7c0.1,0.1,0.2,0.1,0.3,0.2l2.8,0.6l2.2,4.4l-1.2,1.2l-4.4-2.2
+				l-0.6-2.8c0-0.1-0.1-0.2-0.2-0.3l-9.7-9.7c-0.2-0.2-0.6-0.2-0.9,0l-2.8,2.8c-0.3,0.3-0.7,0.3-1,0c-0.3-0.3-0.3-0.7,0-1l4.2-4.2
+				c0.9-0.9,1-2.3,0.2-3.3l-8.8-11.6c-0.6-0.8-1.4-1.2-2.3-1.2c-0.1,0-0.2,0-0.3,0C57.5,4205,56.7,4205.3,56.1,4205.8z"/>
+		<path class="st14" d="M40.2,4225.6c0.1,0.8,0.2,1.6,0.4,2.3c0.1,0.3,0.2,0.7,0.2,1l7-12.8H43c2.9-12.3,13.9-21.5,27-21.5
+				c11.5,0,21.3,7,25.6,17l1.3-2.4c-4.9-9.9-15-16.8-26.8-16.8c-14.7,0-26.9,10.5-29.5,24.5c-0.1,0.8-0.3,1.5-0.4,2.3
+				c0,0.1,0,0.3,0,0.4c-0.1,0.9-0.1,1.8-0.1,2.8s0.1,1.9,0.1,2.8C40.2,4225.3,40.2,4225.5,40.2,4225.6z M99.8,4219.2
+				c-0.1-0.8-0.2-1.6-0.4-2.3c-0.1-0.4-0.2-0.8-0.3-1.2l-7.1,13H97c-2.9,12.3-13.9,21.5-27,21.5c-11.5,0-21.4-7.1-25.6-17.1l-1.2,2.5
+				c4.9,10,15,16.9,26.8,16.9c14.7,0,26.9-10.5,29.5-24.5c0.1-0.8,0.5-4.6,0.5-5.5s-0.1-1.9-0.1-2.8
+				C99.8,4219.5,99.8,4219.3,99.8,4219.2z"/>
+		</svg>
+	</g>
+
+	<g id="sys_engg">		
+		<rect id="sysbox" class="st9" x="20" y="4379"  rx="15" ry="15" height="0" width="610"/>
+				
+		<rect x="41" y="4559" class="st10" width="591" height="0"/>
+		<text id="systxt" transform="matrix(1 0 0 1 41 4558)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00045" target="_blank"><tspan x="0" dy="0" class="st12 st13">Embedded Software Solutions</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.mbse_git_integration" target="_blank"><tspan x="0" dy="40" class="st12 st13">Enterprise Model Management </tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2016906" target="_blank"><tspan x="0" dy="40" class="st12 st13">Hardware and Software Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.behavior_modeling_tool_integration" target="_blank"><tspan x="0" dy="40" class="st12 st13">MBSE Integration Gateway – Deployment</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1913857" target="_blank"><tspan x="0" dy="40" class="st12 st13">MBSE Integration Gateway for Integrating Modeling Tools</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00005" target="_blank"><tspan x="0" dy="40" class="st12 st13">Mechatronics Process Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.MBSE" target="_blank"><tspan x="0" dy="40" class="st12 st13">Model-Based Systems Engineering</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00190" target="_blank"><tspan x="0" dy="40" class="st12 st13">Relation Browser on Rich Client</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00038" target="_blank"><tspan x="0" dy="40" class="st12 st13">Systems Engineering – Deployment and Rich Client Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00192" target="_blank"><tspan x="0" dy="40" class="st12 st13">Systems Engineering Fundamentals</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00088" target="_blank"><tspan x="0" dy="40" class="st12 st13">Wiring Harness Design Tools Integration With Teamcenter</tspan></a>
+		
+		</text>
+		<text transform="matrix(1 0 0 1 126 4493)" class="st14 st1 st15">Systems Engineering</text>
+		<path id="hor_line" class="st16" d="M40.6,4523.8H613v2.9H40.6V4780.8z"/>
+
+		<svg x="0px" y="-263px"><path class="st14" d="M44.5,4699.9c-1.5,0-2.8,1.3-2.8,2.8v42c0,1.5,1.3,2.8,2.8,2.8h26.6v5.6h-9.8c-0.8,0-1.4,0.6-1.4,1.4
+			s0.6,1.4,1.4,1.4c0,0,0,0,0,0h11.2h5.6h11.2c0.8,0,1.4-0.6,1.4-1.4c0-0.8-0.6-1.4-1.4-1.4c0,0,0,0,0,0h-9.8v-5.6h26.6
+			c1.5,0,2.8-1.3,2.8-2.8v-42c0-1.5-1.3-2.8-2.8-2.8H44.5z M44.5,4702.7h61.7v42h-28c-0.8,0-1.4,0.6-1.4,1.4v7H74v-7
+			c0-0.8-0.6-1.4-1.4-1.4h-28V4702.7z M72.6,4706.6l-0.9,4.6c-1.3,0.5-2.4,1.2-3.5,2l-4.5-1.5l-3.6,6.2l3.5,3.1
+			c-0.1,0.7-0.2,1.4-0.2,2c0,0.7,0.1,1.3,0.2,2l-3.5,3.1l3.6,6.2l3.7-1.3l2.3-2.3c-0.1-0.1-0.3-0.2-0.4-0.3l-0.6-0.5l-3.9,1.3
+			l-1.5-2.6l3.1-2.7l-0.2-0.7c-0.2-0.8-0.2-1.5-0.2-2.2c0-0.7,0.1-1.5,0.2-2.2l0.2-0.7l-3.1-2.7l1.5-2.6l3.9,1.3l0.6-0.5
+			c1.1-1,2.4-1.8,3.8-2.2l0.7-0.2l0.8-4h3l0.8,4l0.7,0.2c1.4,0.4,2.7,1.2,3.8,2.2l0.6,0.5l3.9-1.3l1.5,2.6l-3.1,2.7l0.2,0.7
+			c0.2,0.8,0.2,1.5,0.2,2.2c0,0.4,0,0.8-0.1,1.3h2.7c0-0.6,0-1.1,0-1.3c0-0.7-0.1-1.3-0.2-2l3.5-3.1l-3.6-6.2l-4.5,1.5
+			c-1.1-0.9-2.2-1.6-3.5-2l-0.9-4.6L72.6,4706.6L72.6,4706.6z M76.2,4716.7c-3.5,0-6.3,2.8-6.3,6.3c0,2.1,1,3.9,2.6,5.1l1.8-1.8
+			c-1.1-0.7-1.9-1.9-1.9-3.3c0-2.1,1.7-3.8,3.8-3.8c2.1,0,3.8,1.7,3.8,3.8c0,1.4-0.7,2.6-1.8,3.2l1.8,1.8c1.5-1.2,2.6-3,2.6-5.1
+			C82.6,4719.5,79.7,4716.7,76.2,4716.7z M87.6,4726.6l-6.3,6.4l-5.1-5.1l-10.7,10.7l1.8,1.8l8.9-8.9l5.1,5.1l6.3-6.3l2.9,2.9
+			l1.8-1.8L87.6,4726.6z"/>
+		</svg>
+	</g>
+
+</g>
+
+<g id="col2">
+	<g id="bom" transform="translate(4,0)">
+		<rect id="bombox" class="st9" x="670" y="490"  rx="15" ry="15" height="0" width="610"/>
+		
+		<rect x="694" y="664.3" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 694 663)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00187" target="_blank"><tspan x="0" dy="0" class="st12 st13">4G Design Management – Deployment and Rich Client Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.AWfor4GD" target="_blank"><tspan x="0" dy="40" class="st12 st13">4G Design Management on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.dbom_ebom_alignment_admin" target="_blank"><tspan x="0" dy="40" class="st12 st13">Design and BOM Alignment – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.dbom_ebom_alignment_usage" target="_blank"><tspan x="0" dy="40" class="st12 st13">Design and BOM Alignment – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00044" target="_blank"><tspan x="0" dy="40" class="st12 st13">Design Context</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.ebom_admin" target="_blank"><tspan x="0" dy="40" class="st12 st13">Engineering BOM Management – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.ebom_usage" target="_blank"><tspan x="0" dy="40" class="st12 st13">Engineering BOM Management – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.migrate_pca" target="_blank"><tspan x="0" dy="40" class="st12 st13">Migration of Classic Variants to Product Configurator</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00301" target="_blank"><tspan x="0" dy="40" class="st12 st13">Structure Indexing Using Cacheless Search</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.structure_discovery_admin" target="_blank"><tspan x="0" dy="40" class="st12 st13">Structure Indexing Using Smart Discovery</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.administering_product_structures" target="_blank"><tspan x="0" dy="40" class="st12 st13">Structure Management – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1337776" target="_blank"><tspan x="0" dy="40" class="st12 st13">Structure Management on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.pse" target="_blank"><tspan x="0" dy="40" class="st12 st13">Structure Management on Rich Client – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1977946" target="_blank"><tspan x="0" dy="40" class="st12 st13">Structure Partitions – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.structure_partition_usage" target="_blank"><tspan x="0" dy="40" class="st12 st13">Structure Partitions – Usage</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 779.0957 603.313)" class="st14 st1 st15">BOM Management</text>
+		<path id="hor_line" class="st16" d="M693.6,629.8H1266v2.9H693.6V629.8z"/>
+		<path class="st14" d="M691.9,535.3c-2.7,0-4.9,2.2-4.9,4.9v7.9c0,2.7,2.2,4.9,4.9,4.9h4.9v38.3c0,2.7,2.2,4.9,4.9,4.9h18.7v2.9
+			c0,2.7,2.2,4.9,4.9,4.9h11.8c2.7,0,4.9-2.2,4.9-4.9v-7.9c0-2.7-2.2-4.9-4.9-4.9h-11.8c-2.7,0-4.9,2.2-4.9,4.9v2.9h-18.7
+			c-1.6,0-2.9-1.3-2.9-2.9v-20.6h21.6v2.9c0,2.7,2.2,4.9,4.9,4.9h11.8c2.7,0,4.9-2.2,4.9-4.9v-7.9c0-2.7-2.2-4.9-4.9-4.9h-11.8
+			c-2.7,0-4.9,2.2-4.9,4.9v2.9h-21.6v-15.7h4.9c2.7,0,4.9-2.2,4.9-4.9v-7.9c0-2.7-2.2-4.9-4.9-4.9H691.9z M691.9,537.2h11.8
+			c1.6,0,2.9,1.3,2.9,2.9v7.9c0,1.6-1.3,2.9-2.9,2.9h-11.8c-1.6,0-2.9-1.3-2.9-2.9v-7.9C689,538.5,690.3,537.2,691.9,537.2z
+			 M725.3,562.8h11.8c1.6,0,2.9,1.3,2.9,2.9v7.9c0,1.6-1.3,2.9-2.9,2.9h-11.8c-1.6,0-2.9-1.3-2.9-2.9v-7.9
+			C722.4,564.1,723.7,562.8,725.3,562.8z M725.3,588.3h11.8c1.6,0,2.9,1.3,2.9,2.9v7.9c0,1.6-1.3,2.9-2.9,2.9h-11.8
+			c-1.6,0-2.9-1.3-2.9-2.9v-7.9C722.4,589.6,723.7,588.3,725.3,588.3z"/>
+	</g>
+	
+	<g id="doc">
+		<rect id="docbox" class="st9" x="670" y="1400"  rx="15" ry="15" height="0" width="610"/>
+		
+		<rect x="694" y="1580" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 694 1590)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00014" target="_blank"><tspan x="0" dy="0" class="st12 st13">Content Management – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.aw_cont_mgt_author" target="_blank"><tspan x="0" dy="40" class="st12 st13">Content Management on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.cm_authoring" target="_blank"><tspan x="0" dy="40" class="st12 st13">Content Management on Rich Client – Usage </tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.doc_management_deploy" target="_blank"><tspan x="0" dy="40" class="st12 st13">Document Management – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.document_management" target="_blank"><tspan x="0" dy="40" class="st12 st13">Document Management on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.doc_management_user" target="_blank"><tspan x="0" dy="40" class="st12 st13">Document Management on Rich Client – Usage </tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1655986" target="_blank"><tspan x="0" dy="40" class="st12 st13">Microsoft Office Integration With Teamcenter</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00112" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Client for Microsoft Office</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00056" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Extensions for Microsoft Office</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 779.0957 1505)">
+		<tspan x="0" y="-15" class="st14 st1 st15">Document and</tspan><tspan x="0" y="23" class="st14 st1 st15">Content Management</tspan></text>
+		<path id="hor_line" class="st16" d="M693.6,1560.8H1266v2.9H693.6V1539.8z"/>
+		<svg x="0px" y="15px"><path class="st14" d="M692,1439.5v73.5h36.7v-3.9h-32.9v-65.7h31.8v17h17v24.4h3.9v-26.6l-18.6-18.6H692z M729.8,1443.9l14.4,14.4
+			h-14.4V1443.9z M706.1,1475.2v3.9h28.3v-3.9H706.1z M706.1,1486.5v3.9h17v-3.9H706.1z M734.4,1490.4v4.6H757v-4.6H734.4z
+			 M734.4,1499v4H757v-4H734.4z M734.4,1507.3v5.7H757v-5.7H734.4z"/></svg>
+	</g>
+	
+	<g id="ecad">	
+		<rect id="ecadbox" class="st9" x="670" y="2030"  rx="15" ry="15" height="0" width="610"/>	
+		
+		<rect x="692" y="2220" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 692 2200)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.callback_customization" target="_blank"><tspan x="0" dy="0" class="st12 st13">Callbacks in Teamcenter EDA </tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.connector_integration" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter EDA Design Connector Integration – Reference</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.eda_non_mentor_deployment" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter EDA Gateway for (Non-Siemens EDA) ECAD Applications</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.lib_connector_integration" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter EDA Library Connector Integration – Reference</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.schema_reference" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter EDA Schema – Reference</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.gateway_integration" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Gateway for EDA Integration – Reference</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.whats_new_eda" target="_blank"><tspan x="0" dy="40" class="st12 st13">What's New in Teamcenter EDA 2406</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.managing_xpedition_designs" target="_blank"><tspan x="0" dy="40" class="st12 st13">Xpedition and PADS Design Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.eda_mentor_deployment" target="_blank"><tspan x="0" dy="40" class="st12 st13">Xpedition and PADS Integration With Teamcenter</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261919571.managing_xpedition_part_library" target="_blank"><tspan x="0" dy="40" class="st12 st13">Xpedition and PADS Part Library Management</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 777 2144)" class="st14 st1 st15">ECAD Management</text>
+		<path id="hor_line" class="st16" d="M691.6,2168.8H1264v2.9H691.6V2161.8z"/>
+		<svg x="5px" y="11px"><path class="st14" d="M699.9,2057c-0.9,0-1.6,0.7-1.6,1.6v1.6v3.2h3.2v-3.2v-1.6C701.6,2057.7,700.9,2057,699.9,2057
+			C700,2057,700,2057,699.9,2057z M709.6,2057c-0.9,0-1.6,0.7-1.6,1.6v1.6v3.2h3.2v-3.2v-1.6C711.2,2057.7,710.5,2057,709.6,2057
+			C709.6,2057,709.6,2057,709.6,2057z M719.2,2057c-0.9,0-1.6,0.7-1.6,1.6v1.6v3.2h3.2v-3.2v-1.6C720.8,2057.7,720.1,2057,719.2,2057
+			C719.2,2057,719.2,2057,719.2,2057z M728.8,2057c-0.9,0-1.6,0.7-1.6,1.6v1.6v3.2h3.2v-3.2v-1.6C730.4,2057.7,729.7,2057,728.8,2057
+			C728.8,2057,728.8,2057,728.8,2057z M738.4,2057c-0.9,0-1.6,0.7-1.6,1.6v1.6v3.2h3.2v-3.2v-1.6C740.1,2057.7,739.3,2057,738.4,2057
+			C738.4,2057,738.4,2057,738.4,2057z M693.6,2065c-2.6,0-4.8,2.2-4.8,4.8v51.3c0,2.6,2.2,4.8,4.8,4.8h51.3c2.6,0,4.8-2.2,4.8-4.8
+			v-51.3c0-2.6-2.2-4.8-4.8-4.8H693.6z M693.6,2068.2h51.3c0.9,0,1.6,0.7,1.6,1.6v51.3c0,0.9-0.7,1.6-1.6,1.6h-51.3
+			c-0.9,0-1.6-0.7-1.6-1.6v-51.3C691.9,2068.9,692.6,2068.2,693.6,2068.2z M682.3,2074.7c-0.9,0-1.6,0.7-1.6,1.6
+			c0,0.9,0.7,1.6,1.6,1.6c0,0,0,0,0,0h1.6h3.2v-3.2h-3.2H682.3z M751.3,2074.7v3.2h3.2h1.6c0.9,0,1.6-0.7,1.6-1.6
+			c0-0.9-0.7-1.6-1.6-1.6c0,0,0,0,0,0h-1.6H751.3z M704.8,2082.7c-0.9,0-1.6,0.7-1.6,1.6v22.4c0,0.9,0.7,1.6,1.6,1.6h28.9
+			c0.9,0,1.6-0.7,1.6-1.6v-22.4c0-0.9-0.7-1.6-1.6-1.6H704.8z M682.3,2084.3c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6
+			c0,0,0,0,0,0h1.6h3.2v-3.2h-3.2H682.3z M751.3,2084.3v3.2h3.2h1.6c0.9,0,1.6-0.7,1.6-1.6c0-0.9-0.7-1.6-1.6-1.6c0,0,0,0,0,0h-1.6
+			H751.3z M706.4,2085.9H732v19.2h-25.7V2085.9z M682.3,2093.9c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6c0,0,0,0,0,0h1.6h3.2
+			v-3.2h-3.2H682.3z M751.3,2093.9v3.2h3.2h1.6c0.9,0,1.6-0.7,1.6-1.6c0-0.9-0.7-1.6-1.6-1.6c0,0,0,0,0,0h-1.6H751.3z M682.3,2103.5
+			c-0.9,0-1.6,0.7-1.6,1.6c0,0.9,0.7,1.6,1.6,1.6c0,0,0,0,0,0h1.6h3.2v-3.2h-3.2H682.3z M751.3,2103.5v3.2h3.2h1.6
+			c0.9,0,1.6-0.7,1.6-1.6c0-0.9-0.7-1.6-1.6-1.6c0,0,0,0,0,0h-1.6H751.3z M682.3,2113.1c-0.9,0-1.6,0.7-1.6,1.6
+			c0,0.9,0.7,1.6,1.6,1.6c0,0,0,0,0,0h1.6h3.2v-3.2h-3.2H682.3z M751.3,2113.1v3.2h3.2h1.6c0.9,0,1.6-0.7,1.6-1.6
+			c0-0.9-0.7-1.6-1.6-1.6c0,0,0,0,0,0h-1.6H751.3z M698.4,2127.6v3.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6-0.7,1.6-1.6c0,0,0,0,0,0
+			v-1.6v-3.2H698.4z M708,2127.6v3.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6-0.7,1.6-1.6c0,0,0,0,0,0v-1.6v-3.2H708z M717.6,2127.6v3.2
+			v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6-0.7,1.6-1.6c0,0,0,0,0,0v-1.6v-3.2H717.6z M727.2,2127.6v3.2v1.6c0,0.9,0.7,1.6,1.6,1.6
+			c0.9,0,1.6-0.7,1.6-1.6c0,0,0,0,0,0v-1.6v-3.2H727.2z M736.8,2127.6v3.2v1.6c0,0.9,0.7,1.6,1.6,1.6c0.9,0,1.6-0.7,1.6-1.6
+			c0,0,0,0,0,0v-1.6v-3.2H736.8z"/></svg>
+	</g>
+	
+	<g id="mfg">
+		<rect id="mfgbox" class="st9" x="670" y="2680"  rx="15" ry="15" height="0" width="610"/>	
+		
+		<rect x="692" y="2838" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 692 2851)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231212408606848.EasyPlan_Deployment" target="_blank"><tspan x="0" dy="0" class="st12 st13">Easy Plan – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231212408606848.xid2214895" target="_blank"><tspan x="0" dy="40" class="st12 st13">Easy Plan – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231212408765489.ewi_2312_en_US_help.EWI_DeploymentGuide" target="_blank"><tspan x="0" dy="40" class="st12 st13">Electronic Work Instructions – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00260" target="_blank"><tspan x="0" dy="40" class="st12 st13">Manufacturing Process Planning – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.mse" target="_blank"><tspan x="0" dy="40" class="st12 st13">Manufacturing Process Planning – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1364469" target="_blank"><tspan x="0" dy="40" class="st12 st13">Multi-BOM Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00043" target="_blank"><tspan x="0" dy="40" class="st12 st13">Multi-Structure Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.pmphelp" target="_blank"><tspan x="0" dy="40" class="st12 st13">Part Planner</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.rpt_generator" target="_blank"><tspan x="0" dy="40" class="st12 st13">Report Management Using Report Generator</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1899608" target="_blank"><tspan x="0" dy="40" class="st12 st13">Resource Manager on Active Workspace</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.resource_mgr" target="_blank"><tspan x="0" dy="40" class="st12 st13">Resource Manager on Rich Client</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 777 2793)" class="st14 st1 st15">Manufacturing</text>
+		<path id="hor_line" class="st16" d="M691.6,2818.8H1264v2.9H691.6V2782.8z"/>
+		<svg x="0px" y="36px"> <path class="st14" d="M745.7,2691.6c-0.2,0-0.4,0.1-0.5,0.2l-8,6.1l-6.9,3.1c-1,0.5-1.9,1.1-2.6,1.9l0-0.1l-19.5,3.8
+			c-1.7-1.3-3.8-2-6.1-2c-5.7,0-10.2,4.6-10.2,10.2c0,4.5,2.9,8.3,6.9,9.7l8,17.3h-0.9c-6.7,0-12.1,5.4-12.1,12.1v1.9
+			c0,0.5,0.4,0.9,0.9,0.9h50.3c0.5,0,0.9-0.4,0.9-0.9v-1.9c0-6.7-5.4-12.1-12.1-12.1h-11l-10.6-21.8l18.2-3.5l0-0.1
+			c1,0.5,2,0.7,3.2,0.8l7.5,0.3l9.7,2.7c0.1,0,0.2,0,0.3,0c0.3,0,0.6-0.1,0.8-0.4l5.1-7.6c0.3-0.4,0.2-1-0.3-1.3s-1-0.2-1.3,0.3
+			l-4.7,7l-8.6-2.4l-3.2-16.7l7.1-5.4l6.1,4.1c0.4,0.3,1,0.2,1.3-0.3c0.3-0.4,0.2-1-0.3-1.3l-6.6-4.5
+			C746.1,2691.7,745.9,2691.6,745.7,2691.6z M737,2700.1l3,15.6l-6.5-0.2c-3-0.1-5.5-2.3-6.1-5.4c-0.6-3.1,0.9-6.1,3.7-7.3
+			L737,2700.1z M726.2,2705c-0.8,1.6-1,3.5-0.7,5.4c0.4,1.9,1.3,3.5,2.6,4.7l-16.5,3.2c0.4-1.1,0.6-2.2,0.6-3.4
+			c0-2.5-0.9-4.9-2.5-6.7L726.2,2705z M702.1,2706.5c4.6,0,8.4,3.8,8.4,8.4s-3.8,8.4-8.4,8.4s-8.4-3.8-8.4-8.4
+			S697.4,2706.5,702.1,2706.5z M710.4,2720.8l10.2,21.1h-11.9l-7.7-16.8c0.3,0,0.7,0.1,1,0.1C705.5,2725.1,708.5,2723.4,710.4,2720.8
+			z M705.8,2743.7h28c5.7,0,10.2,4.6,10.2,10.2v0.9h-48.4v-0.9C695.5,2748.3,700.1,2743.7,705.8,2743.7z"/></svg>
+	</g>
+	<g id="config">
+		<rect id="configbox" class="st9" x="670" y="3512"  rx="15" ry="15" height="0" width="610"/>	
+		
+		<rect x="692" y="3667" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 692 3683)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.migrate_pca/xid499859" target="_blank"><tspan x="0" dy="0" class="st12 st13">Migration of Classic Variants to Product Configurator</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.admin_pca/xid1973065" target="_blank"><tspan x="0" dy="40" class="st12 st13">Product Configurator – Deployment and Administration</tspan></a> 
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.AW_prod_config/xid2092343" target="_blank"><tspan x="0" dy="40" class="st12 st13">Product Configurator on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00188/xid1978227" target="_blank"><tspan x="0" dy="40" class="st12 st13">Product Configurator on Rich Client – Usage</tspan></a>		
+		</text>
+		<text transform="matrix(1 0 0 1 777 3626)" class="st14 st1 st15">Product Configuration</text>
+		<path id="hor_line" class="st16" d="M691.6,3651.8H1264v2.9H691.6V3560.8z"/>
+		<svg x="0px" y="91px"><path class="st14" d="M695.3,3478.9c-2.1,0-3.9,1.7-3.9,3.9v49.9c0,0.8,0.6,1.4,1.4,1.4h57.8c0.8,0,1.4-0.6,1.4-1.4v-49.9
+			c0-2.1-1.7-3.9-3.9-3.9H695.3z M695.3,3481.7h52.9c0.6,0,1.1,0.5,1.1,1.1v5.8h-55.1v-5.8C694.2,3482.1,694.6,3481.7,695.3,3481.7z
+			 M694.2,3491.3h55.1v39.9h-55.1V3491.3z M702.4,3498.2v6.9h-2.8c-0.8,0-1.4,0.6-1.4,1.4v5.5c0,0.8,0.6,1.4,1.4,1.4h2.8v11h2.8v-11
+			h2.8c0.8,0,1.4-0.6,1.4-1.4v-5.5c0-0.8-0.6-1.4-1.4-1.4h-2.8v-6.9H702.4z M720.3,3498.2v13.8h-2.8c-0.8,0-1.4,0.6-1.4,1.4v5.5
+			c0,0.8,0.6,1.4,1.4,1.4h2.8v4.1h2.8v-4.1h2.8c0.8,0,1.4-0.6,1.4-1.4v-5.5c0-0.8-0.6-1.4-1.4-1.4h-2.8v-13.8H720.3z M738.2,3498.2
+			v6.9h-2.8c-0.8,0-1.4,0.6-1.4,1.4v5.5c0,0.8,0.6,1.4,1.4,1.4h2.8v11h2.8v-11h2.8c0.8,0,1.4-0.6,1.4-1.4v-5.5c0-0.8-0.6-1.4-1.4-1.4
+			H741v-6.9H738.2z M701,3507.8h5.5v2.8H701V3507.8z M736.9,3507.8h5.5v2.8h-5.5V3507.8z M718.9,3514.7h5.5v2.8h-5.5V3514.7z"/></svg>
+	</g>
+	
+	<g id="simulation">
+		<rect id="simbox" class="st9" x="670" y="3960"  rx="15" ry="15" height="0" width="610"/>	
+		
+		<rect x="692" y="4035" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 692 4135)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00215" target="_blank"><tspan x="0" dy="0" class="st12 st13">Simulation Process and Data Management – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.SimulationProcessManagement" target="_blank"><tspan x="0" dy="40" class="st12 st13">Simulation Process and Data Management on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00040" target="_blank"><tspan x="0" dy="40" class="st12 st13">Simulation Process and Data Management on Rich Client – Usage</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 777 4076)" class="st14 st1 st15">Simulation Management</text>
+		<path id="hor_line" class="st16" d="M691.6,4100.8H1264v2.9H691.6V3953.8z"/>	
+		<svg x="0px" y="147px">
+				<path class="st14" d="M695.5,3871.9c-1.5,0-2.8,1.3-2.8,2.8v42.1c0,1.5,1.3,2.8,2.8,2.8h26.6v5.6h-9.8c-0.8,0-1.4,0.6-1.4,1.4
+					c0,0.8,0.6,1.4,1.4,1.4c0,0,0,0,0,0h11.2h5.6h11.2c0.8,0,1.4-0.6,1.4-1.4c0-0.8-0.6-1.4-1.4-1.4c0,0,0,0,0,0h-9.8v-5.6h26.6
+					c1.5,0,2.8-1.3,2.8-2.8v-42.1c0-1.5-1.3-2.8-2.8-2.8H695.5z M695.5,3874.7h61.7v42.1h-28c-0.8,0-1.4,0.6-1.4,1.4v7h-2.8v-7
+					c0-0.8-0.6-1.4-1.4-1.4h-28.1V3874.7z M727.2,3877.6c-1.4,0-2.5,1.1-2.5,2.4c0,0.2,0,0.4,0.1,0.5l-10.1,5.4
+					c-0.5-0.5-1.2-0.9-1.9-0.9c-1.4,0-2.5,1.1-2.5,2.4s1.1,2.4,2.5,2.4c0.7,0,1.4-0.3,1.8-0.8l10.1,5.8c0,0.1,0,0.1,0,0.2
+					c0,1.1,0.8,2.1,2,2.3l0,11.3c-0.7,0.1-1.3,0.6-1.6,1.1l-9.9-6.1c0.1-0.2,0.1-0.4,0.1-0.7c0-1.3-1.1-2.4-2.5-2.4
+					c-1.4,0-2.5,1.1-2.5,2.4s1.1,2.4,2.5,2.4c0.8,0,1.4-0.3,1.9-0.8l10.1,6.1c0,0.1,0,0.2,0,0.3c0,1.3,1.1,2.4,2.5,2.4
+					c1.4,0,2.5-1.1,2.5-2.4c0-0.1,0-0.2,0-0.3l10.1-6.1c0.5,0.5,1.1,0.8,1.9,0.8c1.4,0,2.5-1.1,2.5-2.4s-1.1-2.4-2.5-2.4
+					c-1.4,0-2.5,1.1-2.5,2.4c0,0.2,0.1,0.5,0.1,0.7l-10,6.1c-0.4-0.6-0.9-1-1.6-1.1v-11.3c1.1-0.2,2-1.2,2-2.3c0-0.1,0-0.1,0-0.2
+					l10-5.9c0.5,0.5,1.2,0.9,1.9,0.9c1.4,0,2.5-1.1,2.5-2.4s-1.1-2.4-2.5-2.4c-1.4,0-2.5,1.1-2.5,2.4c0,0.2,0,0.5,0.1,0.7l-9.9,5.8
+					c-0.4-0.7-1.2-1.2-2.2-1.2c-1,0-1.8,0.5-2.2,1.3l-9.9-5.8c0.1-0.2,0.1-0.5,0.1-0.8c0-0.2,0-0.4-0.1-0.6l10-5.4c0.5,0.6,1.2,1,2,1
+					c1.4,0,2.5-1.1,2.5-2.4S728.6,3877.6,727.2,3877.6z"/>
+				<path class="st14" d="M727,3883.4c-0.1,0-0.1,0-0.2,0l-10.2,5.9c-0.1,0.1-0.2,0.2-0.2,0.3v11.8c0,0.1,0.1,0.2,0.2,0.3l10.2,5.9
+					c0.1,0,0.1,0,0.2,0c0.1,0,0.1,0,0.2,0l10.2-5.9c0.1-0.1,0.2-0.2,0.2-0.3v-11.7c0-0.1-0.1-0.2-0.2-0.3l-10.2-5.9
+					C727.2,3883.5,727.1,3883.4,727,3883.4z M727,3884.2l9.5,5.5l-3.6,2.1l-5.7-3.3c-0.1-0.1-0.2-0.1-0.4,0l-5.6,3.3l-3.6-2.1
+					L727,3884.2z M727,3889.2l5.2,3l-5.2,3l-5.1-3L727,3889.2z M717.2,3890.2l3.6,2.1v6.7c0,0.1,0.1,0.2,0.2,0.3l5.7,3.3v4.1
+					l-9.5-5.5V3890.2z M736.9,3890.3v10.9l-9.5,5.5v-4.1l5.7-3.3c0.1-0.1,0.2-0.2,0.2-0.3v-6.6L736.9,3890.3z M721.5,3892.7l5.2,3.1
+					v6l-5.2-3V3892.7z M732.6,3892.8v6l-5.2,3v-6L732.6,3892.8z"/>		</svg>
+	</g>
+	
+	<g id="supp_coll">
+		<rect id="suppbox" class="st9" x="670" y="4415"  rx="15" ry="15" height="0" width="610"/>	
+		
+		<rect x="692" y="4565" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 692 4586)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.partner_connect_admin" target="_blank"><tspan x="0" dy="0" class="st12 st13">Partner Connect – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.partner_connect_using" target="_blank"><tspan x="0" dy="40" class="st12 st13">Partner Connect – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.supplier_collaboration_configuration" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration – Configuration and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.aw_design_data_exchange" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration – Design Data Exchange on Active Workspace</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.design_data_exchange" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration – Design Data Exchange on Rich Client</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.aw_direct_materials_sourcing" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration – Direct Materials Sourcing on Active Workspace </tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.direct_materials_sourcing" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration – Direct Materials Sourcing on Rich Client</tspan></a>
+		
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.supplier_collaboration_deployment" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration – Installation</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.aw_supplier_program_management" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration – Supplier Program Management on Active Workspace</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.supplier_program_management" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration – Supplier Program Management on Rich Client</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129266423376.scf_admin_help" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration Foundation – Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129266423376.scf_sponsor_help" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration Foundation for Sponsors</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129266423376.scf_supplier_help" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Collaboration Foundation for Suppliers</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.usp_admin" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Connect – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.usp_sponsor" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Connect for Data Exchange</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.usp_supplier" target="_blank"><tspan x="0" dy="40" class="st12 st13">Supplier Connect for Suppliers</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.administering_vendor_management" target="_blank"><tspan x="0" dy="40" class="st12 st13">Vendor Management – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.managing_vendor_data_aw" target="_blank"><tspan x="0" dy="40" class="st12 st13">Vendor Management on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.managing_vendor_data" target="_blank"><tspan x="0" dy="40" class="st12 st13">Vendor Management on Rich Client – Usage</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 777 4528)" class="st14 st1 st15">Supplier Management</text>	
+		<path id="hor_line" class="st16" d="M691.6,4554.8H1264v2.9H691.6V4356.8z"/>	
+	
+		<svg x="0px" y="197px"><path class="st14" d="M718.2,4272.7c-7.3,0-13.2,6.3-13.2,14c0,7.7,5.9,14,13.2,14c7.3,0,13.2-6.3,13.2-14
+			C731.4,4279,725.5,4272.7,718.2,4272.7z M718.2,4274.4c6.3,0,11.4,5.5,11.4,12.3c0,6.8-5.1,12.3-11.4,12.3
+			c-6.3,0-11.4-5.5-11.4-12.3C706.8,4279.9,711.9,4274.4,718.2,4274.4z M717.8,4306.6c-12.1,0-22.6,6.4-26.1,16
+			c-1.2,3.1,1.3,6.3,4.4,6.3h29.1c-0.2-0.6-0.4-1.2-0.5-1.8h-28.6c-2.3,0-3.3-2.4-2.8-3.9c3-9,13.1-14.8,24.5-14.8"/>
+		<rect x="727.2" y="4298.8" class="st19" width="32.8" height="32.2"/>
+		<rect x="737" y="4303.7" class="st19" width="13.5" height="0.9"/>	</svg>	
+	</g>
+	
+</g>
+<g id="col3">
+	<g id="classi">
+		<rect id="classbox" class="st9" x="1328" y="490"  rx="15" ry="15" height="0" width="610"/>	
+		
+		<rect x="1349" y="664.3" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 1349 665)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.class_aw" target="_blank"><tspan x="0" dy="0" class="st12 st13">Advanced Classification – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.class_aw_usage" target="_blank"><tspan x="0" dy="40" class="st12 st13">Basic and Advanced Classification on Active Workspace – Usage</tspan>
+		</a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.basic_class_deploy" target="_blank"><tspan x="0" dy="40" class="st12 st13">Basic Classification – Deployment and Administration</tspan>
+		</a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.class" target="_blank"><tspan x="0" dy="40" class="st12 st13">Basic Classification on Rich Client – Usage</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 1434.0957 603.313)" class="st14 st1 st15">Classification</text>
+		<path id="hor_line" class="st16" d="M1348.6,629.8H1921v2.9h-572.4V629.8z"/>
+		<path class="st17" d="M1353.6,541.2c-2.9,0-5.2,2.3-5.2,5.2v52.2c0,2.9,2.3,5.2,5.2,5.2h52.2c2.9,0,5.2-2.3,5.2-5.2v-52.2
+			c0-2.9-2.3-5.2-5.2-5.2H1353.6z M1380.7,543.3h25.1c1.7,0,3.1,1.4,3.1,3.1v25.1h-28.2V543.3z M1350.4,573.6h28.2v28.2h-25.1
+			c-1.7,0-3.1-1.4-3.1-3.1V573.6z M1380.7,573.6h14l-14,14V573.6z M1397.6,573.6h9.8l-26.7,26.7v-9.8L1397.6,573.6z M1408.9,575v9.8
+			l-16.9,16.9h-9.8L1408.9,575z M1357.2,578.3c-1.2,0-2.1,0.9-2.1,2.1s0.9,2.1,2.1,2.1c1.2,0,2.1-0.9,2.1-2.1
+			S1358.4,578.3,1357.2,578.3z M1371.8,578.3c-1.2,0-2.1,0.9-2.1,2.1s0.9,2.1,2.1,2.1c1.2,0,2.1-0.9,2.1-2.1S1373,578.3,1371.8,578.3
+			z M1364.5,585.6c-1.2,0-2.1,0.9-2.1,2.1c0,1.2,0.9,2.1,2.1,2.1s2.1-0.9,2.1-2.1C1366.6,586.5,1365.7,585.6,1364.5,585.6z
+			 M1408.9,587.8v10.8c0,1.7-1.4,3.1-3.1,3.1h-10.8L1408.9,587.8z M1357.2,592.9c-1.2,0-2.1,0.9-2.1,2.1c0,1.2,0.9,2.1,2.1,2.1
+			c1.2,0,2.1-0.9,2.1-2.1C1359.3,593.8,1358.4,592.9,1357.2,592.9z M1371.8,592.9c-1.2,0-2.1,0.9-2.1,2.1c0,1.2,0.9,2.1,2.1,2.1
+			c1.2,0,2.1-0.9,2.1-2.1C1373.9,593.8,1373,592.9,1371.8,592.9z"/>
+	</g>
+	<g id="cust">
+		<rect id="custbox" class="st9" x="1328" y="910"  rx="15" ry="15" height="0" width="610"/>
+		
+		<rect x="1349" y="1069" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 1349 1083)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.Configuration" target="_blank"><tspan x="0" dy="0" class="st12 st13">Active Workspace Customization</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00071" target="_blank"><tspan x="0" dy="40" class="st12 st13">BMIDE for Data Model Design</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.programmers_guide" target="_blank"><tspan x="0" dy="40" class="st12 st13">Rich Client Customization</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.swf" target="_blank"><tspan x="0" dy="40" class="st12 st13">Siemens Web Framework</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.storybook" target="_blank"><tspan x="0" dy="40" class="st12 st13">Siemens Web Framework UI Pattern Library</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.AdminDataReport" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 Administration Data Documentation</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.TcServerInterfaces" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 C++ API Reference</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.DataModelReport" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 Data Model Documentation</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.ITKFunction" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 ITK Function Reference</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.soa" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 Services Reference – C++</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.java_loose" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 Services Reference – Java (Loose)</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.java_strong" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 Services Reference – Java (Strong)</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.services_net_a-c" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter 2406 Services Reference – .Net </tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00003" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Customization – Getting Started</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.tcif_guide" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Integration Framework</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1900695" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter OData API Framework</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.itk" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Server Customization</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.server_cust_ref" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Server Customization in C# – Reference</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00076" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Services</tspan></a>
+				<a class="st11" xlink:href="/en-US/doc/282219420/PL20231204693598016.whats_changed" target="_blank"><tspan x="0" dy="40" class="st11 st12 st13">What's Changed in Teamcenter APIs</tspan></a>
+		</text>
+		
+		<text transform="matrix(1 0 0 1 1434 1023)" class="st14 st1 st15">Customization</text>
+		<path id="hor_line" class="st16" d="M1348.6,1050.8H1921v2.9h-572.4V1016.8z"	/>	
+		<svg x="0px" y="28px">
+			<path class="st14" d="M1391.1,961.5c-3,0-5.5,2.5-5.5,5.5v22c0,3,2.5,5.5,5.5,5.5h22c3,0,5.5-2.5,5.5-5.5v-22c0-3-2.5-5.5-5.5-5.5
+				L1391.1,961.5L1391.1,961.5z M1391.1,963.1h22c2.2,0,3.9,1.8,3.9,3.9v22c0,2.2-1.8,3.9-3.9,3.9h-22c-2.2,0-3.9-1.8-3.9-3.9v-22
+				C1387.2,964.8,1388.9,963.1,1391.1,963.1z M1405.9,967.9c-0.2,0-0.4,0.1-0.6,0.2l-5.2,5.5l-2.3-2.5c-0.3-0.3-0.8-0.3-1.1,0
+				c-0.3,0.3-0.3,0.8,0,1.1l3.4,3.7l6.3-6.8c0.3-0.3,0.3-0.8,0-1.1C1406.3,968,1406.1,967.9,1405.9,967.9z M1406,980.5
+				c-0.2,0-0.4,0.1-0.6,0.2l-5.2,5.5l-2.3-2.5c-0.3-0.3-0.8-0.3-1.1,0c-0.3,0.3-0.3,0.8,0,1.1l3.4,3.7l6.3-6.8c0.3-0.3,0.3-0.8,0-1.1
+				C1406.4,980.6,1406.2,980.5,1406,980.5z"/>
+			<path class="st18" d="M1415,958v-3.2c0-0.9-0.2-1.7-0.7-2.3c-0.5-0.6-1.2-1-2.2-1.2l-6.6-1.5c-0.2-0.5-0.3-0.9-0.5-1.3
+				s-0.3-0.9-0.5-1.3l3.6-5.7c0.6-0.9,0.8-1.7,0.7-2.5c-0.1-0.8-0.5-1.5-1.1-2.1l-4.6-4.5c-0.6-0.7-1.3-1-2.1-1.1
+				c-0.8-0.1-1.6,0.1-2.4,0.6l-5.8,3.7c-0.4-0.2-0.8-0.3-1.3-0.5c-0.4-0.2-0.9-0.3-1.3-0.5l-1.5-6.6c-0.2-1-0.6-1.7-1.2-2.2
+				c-0.6-0.5-1.4-0.7-2.3-0.7h-6.5c-0.9,0-1.7,0.2-2.3,0.7c-0.6,0.5-1,1.2-1.2,2.2l-1.6,6.6c-0.4,0.2-0.8,0.3-1.3,0.5
+				c-0.4,0.2-0.9,0.3-1.3,0.5l-5.8-3.7c-1.7-1-3.1-0.9-4.5,0.5l-4.5,4.5c-0.7,0.6-1.1,1.4-1.2,2.1c-0.1,0.8,0.2,1.6,0.7,2.5l3.6,5.7
+				c-0.2,0.4-0.3,0.9-0.5,1.3c-0.2,0.4-0.3,0.9-0.5,1.3l-6.6,1.5c-1,0.2-1.7,0.6-2.2,1.2c-0.5,0.6-0.8,1.4-0.8,2.3v6.4
+				c0,0.9,0.2,1.7,0.8,2.3c0.5,0.6,1.2,1,2.2,1.2l6.6,1.5c0.2,0.5,0.3,0.9,0.5,1.3c0.2,0.4,0.3,0.9,0.5,1.3l-3.6,5.7
+				c-0.6,0.9-0.8,1.7-0.7,2.4c0.1,0.8,0.5,1.5,1.2,2.1l4.5,4.6c0.7,0.6,1.4,1,2.1,1.1c0.8,0.1,1.6-0.2,2.3-0.6l5.8-3.7
+				c0.5,0.2,0.9,0.3,1.3,0.5s0.8,0.3,1.3,0.5l1.6,6.6c0.2,1,0.6,1.7,1.2,2.2c0.6,0.5,1.3,0.7,2.3,0.7h3.9"/>
+			<path class="st18" d="M1382.1,969.7c-2.1,0-4.1-0.5-5.9-1.6c-1.8-1.1-3.2-2.5-4.3-4.3c-1.1-1.8-1.6-3.7-1.6-5.9
+				c0-2.1,0.5-4.1,1.6-5.9c1.1-1.8,2.5-3.2,4.3-4.3s3.8-1.6,5.9-1.6c2.1,0,4.1,0.5,5.9,1.6c1.8,1.1,3.2,2.5,4.3,4.3
+				c1.1,1.8,1.6,3.7,1.6,5.9"/>		</svg>	
+	</g>
+
+	<g id="funda">
+		<rect id="fundabox" class="st9" x="1328" y="1779"  rx="15" ry="15" height="0" width="610"/>
+		
+		<rect x="1348" y="1830" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 1348 1952)">
+		<a class="st11" xlink:href="/en-US/product/282219420/doc/PL20231129261301184.UserAssistance" target="_blank"><tspan x="0" dy="0" class="st12 st13">Active Workspace Fundamentals</tspan></a>
+		<a class="st11" xlink:href="/en-US/product/282219420/doc/PL20231129261301184.xid1298999" target="_blank"><tspan x="0" dy="40" class="st12 st13">Active Workspace – Getting Started</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.my_teamcenter" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Basics</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.teamcenter_teams_usage" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter for Microsoft Teams – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2016716" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Share</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 1433 1893)" class="st14 st1 st15">Fundamentals</text>
+		<path id="hor" class="st16" d="M1347.6,1918.8H1920v2.9h-572.4V1807.8z"/>
+		<svg x="0px" y="114px">
+			<rect x="1349" y="1750" class="st19" width="28.5" height="28.5"/>
+			<rect x="1349" y="1715" class="st19" width="28.5" height="28.5"/>
+			<rect x="1384.5" y="1750" class="st19" width="28.5" height="28.5"/>	</svg>
+			<text></text>			
+			<text></text>
+			<text></text>
+	</g>
+	<g id="ind">
+		<rect id="indbox" class="st9" x="1328" y="2208"  rx="15" ry="15" height="0" width="610"/>
+		
+		<rect x="1348" y="2380" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 1348 2380)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.PLM00569" target="_blank"><tspan x="0" dy="0" class="st12 st13">Aerospace and Defense – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.AerospaceAndDefense" target="_blank"><tspan x="0" dy="40" class="st12 st13">Aerospace and Defense on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00111" target="_blank"><tspan x="0" dy="40" class="st12 st13">Aerospace and Defense on Rich Client – Usage </tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2251381" target="_blank"><tspan x="0" dy="40" class="st12 st13">Capital Asset Lifecycle Management – Deployment</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.aw_calm" target="_blank"><tspan x="0" dy="40" class="st12 st13">Capital Asset Lifecycle Management – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1685153" target="_blank"><tspan x="0" dy="40" class="st12 st13">Consumer Packaged Goods – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.ConsumerAndPackagedGoods/xid1365797" target="_blank"><tspan x="0" dy="40" class="st12 st13">Consumer Packaged Goods on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.cpg_help" target="_blank"><tspan x="0" dy="40" class="st12 st13">Consumer Packaged Goods on Rich Client – Usage </tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2251380" target="_blank"><tspan x="0" dy="40" class="st12 st13">Master Document Register and Transmittal – Deployment</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2251379" target="_blank"><tspan x="0" dy="40" class="st12 st13">Master Document Register and Transmittal – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2203690" target="_blank"><tspan x="0" dy="40" class="st12 st13">PLM for Component Manufacturers – Deployment</tspan> </a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2113481" target="_blank"><tspan x="0" dy="40" class="st12 st13">PLM for Component Manufacturers – Usage</tspan> </a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.machine_builder" target="_blank"><tspan x="0" dy="40" class="st12 st13">PLM for Machine Builders</tspan> </a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.md_deployment" target="_blank"><tspan x="0" dy="40" class="st12 st13">PLM for Medical Devices – Deployment</tspan> </a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.md_usage" target="_blank"><tspan x="0" dy="40" class="st12 st13">PLM for Medical Devices – Usage</tspan> </a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.rfa_admin" target="_blank"><tspan x="0" dy="40" class="st12 st13">Retail Footwear and Apparel – Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.rfa_deployment" target="_blank"><tspan x="0" dy="40" class="st12 st13">Retail Footwear and Apparel – Deployment</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1615883" target="_blank"><tspan x="0" dy="40" class="st12 st13">Retail Footwear and Apparel – Fundamentals</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.rfa_customizing_techpacks" target="_blank"><tspan x="0" dy="40" class="st12 st13">Retail Footwear and Apparel – Techpacks Customization</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.rfa_ua" target="_blank"><tspan x="0" dy="40" class="st12 st13">Retail Footwear and Apparel – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.semi_deployment" target="_blank"><tspan x="0" dy="40" class="st12 st13">Semiconductor Lifecycle Management – Deployment</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.semi_usage" target="_blank"><tspan x="0" dy="40" class="st12 st13">Semiconductor Lifecycle Management – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00008" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Automotive Edition</tspan></a></text>
+		<text transform="matrix(1 0 0 1 1433 2320)" class="st14 st1 st15">Industry Solutions</text>
+		<path id="hor_line" class="st16" d="M1347.6,2346.8H1920v2.9h-572.4V2248.8z"	/>
+		<svg x="0px" y="100px"><path class="st17" d="M1372.7,2159.4v11.8l-10.7,6.4v14.1h3.7v-11.8l10.4-6h9.5l10.4,6v11.8h3.7v-13.9l-10.7-6.5v-11.8h-3.7v10.7
+			h-8.7v-10.7H1372.7z M1371.7,2193.3v9.1h-23.2v3.7h64.5v-3.7h-23.2v-9.1H1371.7z M1375.4,2197h10.7v5.4h-10.7V2197z M1348.5,2208.7
+			v5.4c1.6,0,2.7-1.1,2.7-2.7C1351.2,2209.8,1350.1,2208.7,1348.5,2208.7z M1359.3,2208.7c-1.5,0-2.7,1.2-2.7,2.7
+			c0,1.5,1.2,2.7,2.7,2.7c1.5,0,2.7-1.2,2.7-2.7C1362,2209.9,1360.7,2208.7,1359.3,2208.7z M1370,2208.7c-1.5,0-2.7,1.2-2.7,2.7
+			c0,1.5,1.2,2.7,2.7,2.7c1.5,0,2.7-1.2,2.7-2.7C1372.7,2209.9,1371.5,2208.7,1370,2208.7z M1380.8,2208.7c-1.5,0-2.7,1.2-2.7,2.7
+			c0,1.5,1.2,2.7,2.7,2.7s2.7-1.2,2.7-2.7C1383.4,2209.9,1382.2,2208.7,1380.8,2208.7z M1391.5,2208.7c-1.5,0-2.7,1.2-2.7,2.7
+			c0,1.5,1.2,2.7,2.7,2.7c1.5,0,2.7-1.2,2.7-2.7C1394.2,2209.9,1393,2208.7,1391.5,2208.7z M1402.3,2208.7c-1.5,0-2.7,1.2-2.7,2.7
+			c0,1.5,1.2,2.7,2.7,2.7c1.5,0,2.7-1.2,2.7-2.7C1404.9,2209.9,1403.7,2208.7,1402.3,2208.7z M1413,2208.7c-1.6,0-2.7,1.1-2.7,2.7
+			c0,1.6,1.1,2.7,2.7,2.7V2208.7z M1348.5,2216.8v3.7h64.5v-3.7H1348.5z"/></svg>
+	</g>
+
+	<g id="quality">
+		<rect id="quabox" class="st9" x="1328" y="3227"  rx="15" ry="15" height="0" width="610"/>
+		
+		<rect x="1348" y="3400" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 1348 3400)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.control_plan" target="_blank"><tspan x="0" dy="0" class="st12 st13">Control Plans</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.fmea" target="_blank"><tspan x="0" dy="40" class="st12 st13">Failure Mode and Effects Analysis</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.problem_solving" target="_blank"><tspan x="0" dy="40" class="st12 st13">Problem Solving</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.quality_actions" target="_blank"><tspan x="0" dy="40" class="st12 st13">Quality Actions</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.quality_audit" target="_blank"><tspan x="0" dy="40" class="st12 st13">Quality Audit</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.quality_issue_management" target="_blank"><tspan x="0" dy="40" class="st12 st13">Quality Issues</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.apqp" target="_blank"><tspan x="0" dy="40" class="st12 st13">Quality Project Management</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.install_configure_quality_center_apps" target="_blank"><tspan x="0" dy="40" class="st12 st13">Teamcenter Quality – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.training_qualification" target="_blank"><tspan x="0" dy="40" class="st12 st13">Training and Qualification</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 1433 3337)" class="st14 st1 st15">Quality</text>
+		<path id="hor_line" class="st16" d="M1347.6,3365.8H1920v2.9h-572.4V3295.8z"			/>
+		<svg x="0px" y="68px"><path class="st14" d="M1365.2,3207c-1.8,0.1-3.6,1-4.6,2.6l0.1-0.1l-0.4,0.6l0,0c-0.6,0.9-1.4,1.4-2.4,1.4h-0.7
+			c-3,0-5.4,2.5-5.6,5.5v0v0.7c0,1-0.5,1.8-1.4,2.4l0,0l-0.6,0.4l0.1-0.1c-2.5,1.6-3.4,4.8-2,7.5l0.3,0.5l0,0c0.4,0.8,0.4,2,0,2.7
+			l-0.1,0.2l-0.2,0.8c-1.2,2.6-0.3,5.7,2.1,7.2l-0.1-0.1l0.6,0.4l0,0c0.9,0.6,1.4,1.4,1.4,2.4v0.7c0,2.5,1.6,4.4,3.8,5.2l-7,15.1
+			c-0.3,0.7,0,1.5,0.7,1.8c0.2,0.1,0.4,0.1,0.6,0.1h8.8l5,6.3c0.5,0.6,1.3,0.7,1.9,0.2c0.2-0.1,0.3-0.3,0.4-0.5l4.2-9.6l4.3,9.6
+			c0.3,0.7,1.1,1,1.8,0.7c0.2-0.1,0.4-0.2,0.5-0.4l5-6.3h8.8c0.7,0,1.4-0.6,1.4-1.4c0-0.2,0-0.4-0.1-0.6l-7-15.1
+			c2.1-0.8,3.6-2.8,3.8-5.1l0,0v-0.7c0-1,0.5-1.8,1.4-2.4l0,0l0.6-0.4l-0.1,0.1c2.5-1.6,3.4-4.8,2-7.5l0.1,0.1l-0.3-0.8l0-0.1
+			c-0.4-0.8-0.4-2,0-2.7l0,0l0.3-0.5c1.4-2.6,0.5-5.9-2-7.5l0.1,0.1l-0.6-0.4l0,0c-0.9-0.6-1.4-1.4-1.4-2.4v-0.7c0-3-2.5-5.4-5.5-5.6
+			l0,0h-0.7c-1,0-1.8-0.5-2.4-1.4l0,0l-0.4-0.6l0.1,0.1c-1.6-2.5-4.8-3.4-7.5-2l-0.5,0.3l0,0c-0.8,0.4-2,0.4-2.7,0l-0.1,0l-0.8-0.3
+			l0.1,0.1c-0.7-0.4-1.4-0.6-2.1-0.6C1365.7,3207,1365.5,3207,1365.2,3207z M1365.1,3209.7c0.5,0,1.1,0.1,1.6,0.4l0.1,0l0.7,0.3
+			c1.6,0.8,3.6,0.8,5.2-0.1l0.5-0.3l0,0c1.4-0.8,3.1-0.3,3.9,1l0,0l0.4,0.6l0-0.1c1,1.5,2.7,2.6,4.6,2.6h0.6c1.7,0.1,2.9,1.3,2.9,2.8
+			v0.7c0,2,1.1,3.6,2.6,4.6l-0.1,0l0.6,0.4l0,0c1.3,0.9,1.8,2.5,1,3.9l0,0l-0.3,0.5c-0.9,1.6-0.9,3.6-0.1,5.2l0.3,0.7l0,0.1
+			c0.8,1.4,0.3,3.1-1,3.9l0,0l-0.6,0.4l0.1,0c-1.5,1-2.6,2.7-2.6,4.6v0.6c-0.1,1.7-1.3,2.9-2.8,2.9h-0.7c-2,0-3.6,1.1-4.6,2.6l0-0.1
+			l-0.4,0.6l0,0c-0.9,1.3-2.5,1.8-3.9,1l0,0l-0.5-0.3c-1.7-0.9-3.7-0.9-5.4,0l-0.5,0.3l0,0c-1.4,0.8-3.1,0.3-3.9-1l0,0l-0.4-0.6
+			l0,0.1c-1-1.5-2.7-2.6-4.6-2.6h-0.6c-1.7-0.1-2.9-1.3-2.9-2.8v-0.7c0-2-1.1-3.6-2.6-4.6l0.1,0l-0.6-0.4l0,0c-1.3-0.9-1.8-2.5-1-3.9
+			l0.1-0.2l0.1-0.7c0.8-1.6,0.8-3.6-0.1-5.1l-0.3-0.5l0,0c-0.8-1.4-0.3-3.1,1-3.9l0,0l0.6-0.4l-0.1,0c1.5-1,2.6-2.7,2.6-4.6v-0.6
+			c0.1-1.7,1.3-2.9,2.8-2.9h0.7c2,0,3.6-1.1,4.6-2.6l0,0.1l0.4-0.6l0,0c0.4-0.7,1-1.1,1.7-1.3
+			C1364.8,3209.7,1365,3209.7,1365.1,3209.7z M1380.1,3220.7l-11.2,17.5l-9-8.1l-1.8,2l11.3,10.3l12.9-20.2L1380.1,3220.7z
+			 M1382,3248.6l6.5,13.9h-7.4c-0.4,0-0.8,0.2-1.1,0.5l-4,5l-4.4-9.9l2.2-5.2c2.2,0.3,4.4-0.6,5.7-2.5l-0.1,0.1l0.4-0.6l0,0
+			C1380.5,3249.2,1381.1,3248.7,1382,3248.6z M1358.3,3248.6c0.8,0.1,1.5,0.6,2,1.4l0,0l0.4,0.6l-0.1-0.1c1.6,2.5,4.8,3.4,7.5,2
+			l0.5-0.3l0,0c0.7-0.4,1.8-0.4,2.6-0.1l-7,15.9l-4-5c-0.3-0.3-0.6-0.5-1.1-0.5h-7.4L1358.3,3248.6z"/></svg>
+	</g>
+
+	<g id="sub_comp">
+		<rect id="subbox" class="st9" x="1328" y="3858"  rx="15" ry="15" height="0" width="610"/>
+		
+		<rect x="1348" y="4016" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 1348 4029)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00079" target="_blank"><tspan x="0" dy="0" class="st12 st13">Substance Compliance – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.SubstanceCompliance" target="_blank"><tspan x="0" dy="40" class="st12 st13">Substance Compliance on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00199" target="_blank"><tspan x="0" dy="40" class="st12 st13">Substance Compliance on Rich Client – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00079_imds" target="_blank">
+		<tspan x="0" dy="40" class="st12 st13">Substance Compliance With IMDS – Deployment</tspan><tspan x="0" dy="25" class="st12 st13">and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.SubstanceCompliance_imds" target="_blank"><tspan x="0" dy="40" class="st12 st13">Substance Compliance With IMDS on Active Workspace – Usage</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.plm00199_imds" target="_blank"><tspan x="0" dy="40" class="st12 st13">Substance Compliance With IMDS on Rich Client – Usage</tspan></a>
+		
+		</text>
+		<text transform="matrix(1 0 0 1 1432 3972)" class="st14 st1 st15">Substance Compliance</text>
+		<path id="hor_line" class="st16" d="M1347.6,3998.8H1920v2.9h-572.4V3946.8z"		/>
+		<svg x="0px" y="50px"><path class="st14" d="M1370.5,3857.7c-12.4,0-22.5,10.1-22.5,22.5c0,7.1,3.1,11.6,6.1,15c1.5,1.7,3,3.1,4,4.5s1.6,2.6,1.6,4v2v7.8
+			c0,2.7,2.2,4.9,4.9,4.9h1.1c0.5,2.2,2.4,3.9,4.8,3.9s4.3-1.7,4.8-3.9h1.1c2.7,0,4.9-2.2,4.9-4.9v-8.8v-1c0-1.4,0.6-2.7,1.6-4
+			c1-1.4,2.5-2.8,4-4.5c3-3.4,6.1-7.8,6.1-15C1393,3867.8,1382.9,3857.7,1370.5,3857.7z M1370.5,3859.7c11.4,0,20.5,9.2,20.5,20.5
+			c0,6.6-2.7,10.4-5.6,13.7c-1.4,1.6-2.9,3.1-4.1,4.6c-1.2,1.5-2,3.2-2,5.2v1h-9.2c-0.7-1.5-1.6-3.7-1.6-6.2c0-0.2,0-0.4,0-0.6
+			c2.4-1.2,6.1-3.6,8.7-7.2c3.1-4.3,4.6-10.4,0.8-17.7l-0.4-0.8l-0.8,0.4c-6.2,2.6-10.2,6.3-12,10.8s-1.2,9.5,1.5,14.7l0.4,0.8l0,0
+			c0,2.3,0.7,4.3,1.3,5.9h-6.2v-1c0-2-0.9-3.7-2-5.2c-1.2-1.5-2.6-3-4.1-4.6c-2.9-3.2-5.6-7.1-5.6-13.7
+			C1350,3868.9,1359.2,3859.7,1370.5,3859.7z M1370.5,3862.6c-0.5,0-1,0.4-1,1s0.4,1,1,1s1-0.4,1-1S1371,3862.6,1370.5,3862.6z
+			 M1366.2,3863.2c-0.5,0-1,0.4-1,1s0.4,1,1,1c0.5,0,1-0.4,1-1S1366.7,3863.2,1366.2,3863.2z M1374.8,3863.2c-0.5,0-1,0.4-1,1
+			c0,0.5,0.4,1,1,1c0.5,0,1-0.4,1-1C1375.8,3863.6,1375.3,3863.2,1374.8,3863.2z M1362.2,3864.8c-0.5,0-1,0.4-1,1s0.4,1,1,1
+			c0.5,0,1-0.4,1-1S1362.7,3864.8,1362.2,3864.8z M1378.8,3864.8c-0.5,0-1,0.4-1,1c0,0.5,0.4,1,1,1s1-0.4,1-1
+			C1379.8,3865.3,1379.4,3864.8,1378.8,3864.8z M1358.8,3867.5c-0.5,0-1,0.4-1,1s0.4,1,1,1c0.5,0,1-0.4,1-1
+			S1359.3,3867.5,1358.8,3867.5z M1382.3,3867.5c-0.5,0-1,0.4-1,1s0.4,1,1,1c0.5,0,1-0.4,1-1S1382.8,3867.5,1382.3,3867.5z
+			 M1356.1,3870.9c-0.5,0-1,0.4-1,1s0.4,1,1,1c0.5,0,1-0.4,1-1S1356.7,3870.9,1356.1,3870.9z M1384.9,3870.9c-0.5,0-1,0.4-1,1
+			s0.4,1,1,1s1-0.4,1-1S1385.4,3870.9,1384.9,3870.9z M1376.6,3874.7c2.9,6.3,1.7,11.1-0.9,14.7c-2,2.8-4.8,4.8-6.9,6
+			c0.6-4.9,2.6-8.2,2.6-8.2c0.3-0.5,0.1-1.1-0.3-1.3c-0.1-0.1-0.3-0.1-0.5-0.1c-0.4,0-0.7,0.2-0.9,0.5c0,0-2,3.4-2.8,8.4
+			c-1.5-3.9-1.7-7.5-0.4-10.7C1368,3880.4,1371.3,3877.2,1376.6,3874.7z M1354.5,3874.9c-0.5,0-1,0.4-1,1s0.4,1,1,1c0.5,0,1-0.4,1-1
+			S1355,3874.9,1354.5,3874.9z M1386.6,3874.9c-0.5,0-1,0.4-1,1s0.4,1,1,1s1-0.4,1-1S1387.1,3874.9,1386.6,3874.9z M1353.9,3879.2
+			c-0.5,0-1,0.4-1,1s0.4,1,1,1c0.5,0,1-0.4,1-1S1354.4,3879.2,1353.9,3879.2z M1387.1,3879.2c-0.5,0-1,0.4-1,1s0.4,1,1,1s1-0.4,1-1
+			S1387.7,3879.2,1387.1,3879.2z M1354.5,3883.5c-0.5,0-1,0.4-1,1s0.4,1,1,1c0.5,0,1-0.4,1-1S1355,3883.5,1354.5,3883.5z
+			 M1386.6,3883.5c-0.5,0-1,0.4-1,1s0.4,1,1,1s1-0.4,1-1S1387.1,3883.5,1386.6,3883.5z M1356.1,3887.5c-0.5,0-1,0.4-1,1s0.4,1,1,1
+			c0.5,0,1-0.4,1-1S1356.7,3887.5,1356.1,3887.5z M1384.9,3887.5c-0.5,0-1,0.4-1,1s0.4,1,1,1s1-0.4,1-1S1385.4,3887.5,1384.9,3887.5z
+			 M1358.8,3891c-0.5,0-1,0.4-1,1s0.4,1,1,1c0.5,0,1-0.4,1-1S1359.3,3891,1358.8,3891z M1382.3,3891c-0.5,0-1,0.4-1,1s0.4,1,1,1
+			c0.5,0,1-0.4,1-1S1382.8,3891,1382.3,3891z M1361.7,3906.6h7.8h9.8v2h-11.7v2h11.7v2h-11.7v2h11.6c-0.4,1.1-1.5,2-2.8,2h-11.7
+			c-1.3,0-2.4-0.8-2.8-2h3.7v-2h-3.9v-2h3.9v-2h-3.9V3906.6z M1367.8,3918.3h5.5c-0.4,1.1-1.5,2-2.8,2S1368.2,3919.5,1367.8,3918.3z"
+			/></svg>
+	</g>
+
+	<g id="vis">		
+		<rect id="visbox" class="st9" x="1328" y="4398"  rx="15" ry="15" height="0" width="610"/>		
+		
+		<rect x="1348" y="4580" class="st10" width="591" height="0"/>
+		<text transform="matrix(1 0 0 1 1348 4571)">
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.working_with_2D_images_tc" target="_blank"><tspan x="0" dy="0" class="st12 st13">2D Image Management on Rich Client</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.working_with_3D_models_tc" target="_blank"><tspan x="0" dy="40" class="st12 st13">3D Model Management on Rich Client</tspan></a>
+		<a class="st11" xlink:href="/en-US/product/282219420/doc/PL20231129261301184.Clearancedb_Admin_Guide_tc" target="_blank"><tspan x="0" dy="40" class="st12 st13">ClearanceDB – Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.ecad_tutorial_tc" target="_blank"><tspan x="0" dy="40" class="st12 st13">ECAD Quick Tour</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.ecad_tc" target="_blank"><tspan x="0" dy="40" class="st12 st13">ECAD Viewer</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.visualization_integrations_tc" target="_blank"><tspan x="0" dy="40" class="st12 st13">Lifecycle Visualization Integration With Teamcenter</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid1337779" target="_blank"><tspan x="0" dy="40" class="st12 st13">Product Data Visualization on Active Workspace</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.xid2117372" target="_blank"><tspan x="0" dy="40" class="st12 st13">Visualization – Deployment and Administration</tspan></a>
+		<a class="st11" xlink:href="/en-US/doc/282219420/PL20231129261301184.getting_started_visualization_tc" target="_blank"><tspan x="0" dy="40" class="st12 st13">Visualization on Rich Client – Getting Started</tspan></a>
+		</text>
+		<text transform="matrix(1 0 0 1 1433 4512)" class="st14 st1 st15">Visualization</text>
+		<path id="hor_line" class="st16" d="M1347.6,4538.8H1920v2.9h-572.4V4486.8z"		/>
+		<svg x="0px" y="56px"><path class="st14" d="M1381.9,4390.4c-0.6,0-1,0.4-1,1v3h-27.1c-3.3,0-6,2.7-6,6v36.1c0,3.3,2.7,6,6,6h15.7l-7.5,12.5
+				c-0.3,0.5-0.1,1.1,0.3,1.4c0.2,0.1,0.3,0.1,0.5,0.1c0.3,0,0.7-0.2,0.9-0.5l8.1-13.6h20.1l8.1,13.6c0.2,0.3,0.5,0.5,0.9,0.5
+				c0.2,0,0.4,0,0.5-0.1c0.5-0.3,0.6-0.9,0.3-1.4l-7.5-12.5h15.7c3.3,0,6-2.7,6-6v-36.1c0-3.3-2.7-6-6-6h-27.1v-3
+				C1382.9,4390.9,1382.4,4390.4,1381.9,4390.4z M1353.8,4396.4h56.2c2.2,0,4,1.8,4,4v36.1c0,2.2-1.8,4-4,4h-56.2c-2.2,0-4-1.8-4-4
+				v-36.1C1349.8,4398.2,1351.6,4396.4,1353.8,4396.4z M1381.9,4405.8c-0.1,0-0.1,0-0.2,0l-12.2,7c-0.1,0.1-0.2,0.2-0.2,0.4v14.1
+				c0,0.1,0.1,0.2,0.2,0.4l12.2,7c0.1,0,0.1,0,0.2,0s0.1,0,0.2,0l12.2-7c0.1-0.1,0.2-0.2,0.2-0.4v-13.9c0-0.1-0.1-0.2-0.2-0.4
+				l-12.2-7C1382.1,4406,1382,4405.8,1381.9,4405.8z M1381.9,4406.8l11.3,6.6l-4.3,2.5l-6.8-3.9c-0.1-0.1-0.2-0.1-0.5,0l-6.7,3.9
+				l-4.3-2.5L1381.9,4406.8z M1381.9,4412.7l6.2,3.6l-6.2,3.6l-6.1-3.6L1381.9,4412.7z M1370.2,4413.9l4.3,2.5v8
+				c0,0.1,0.1,0.2,0.2,0.4l6.8,3.9v4.9l-11.3-6.6V4413.9z M1393.7,4414.1v13l-11.3,6.6v-4.9l6.8-3.9c0.1-0.1,0.2-0.2,0.2-0.4v-7.9
+				L1393.7,4414.1z M1375.3,4416.9l6.2,3.7v7.1l-6.2-3.6V4416.9z M1388.6,4417v7.1l-6.2,3.6v-7.1L1388.6,4417z"/></svg>
+	</g>
+
+</g>
+<script>
+<![CDATA[
+window.onload = function() {
+//to adjust the width of categories tabs automatically in the header
+const header_rects0 = document.getElementById("head_row0")?.getElementsByTagName("rect") || [];
+const header_texts0 = document.getElementById("head_row0")?.getElementsByTagName("text") || [];
+const header_rects1 = document.getElementById("head_row1")?.getElementsByTagName("rect") || [];
+const header_texts1 = document.getElementById("head_row1")?.getElementsByTagName("text") || [];
+const header_rects2 = document.getElementById("head_row2")?.getElementsByTagName("rect") || [];
+const header_texts2 = document.getElementById("head_row2")?.getElementsByTagName("text") || [];
+const header_rects3 = document.getElementById("head_row3")?.getElementsByTagName("rect") || [];
+const header_texts3 = document.getElementById("head_row3")?.getElementsByTagName("text") || [];
+const header_gtags0 = document.getElementById("head_row0")?.getElementsByTagName("g") || [];
+const header_gtags1 = document.getElementById("head_row1")?.getElementsByTagName("g") || [];
+const header_gtags2 = document.getElementById("head_row2")?.getElementsByTagName("g") || [];
+const header_gtags3 = document.getElementById("head_row3")?.getElementsByTagName("g") || [];
+var svg0 = document.getElementById("head_row0");
+var svg1 = document.getElementById("head_row1");
+var svg2 = document.getElementById("head_row2");
+var svg3 = document.getElementById("head_row3");
+var header = document.getElementById("header_bg")?.getBBox() || {}; // Using an empty object as a fallback
+
+function setWidth0() {
+//set width based on the amount of text	
+	for (let i=0; i<header_rects0.length; i++) {
+		const headtxtbox = header_texts0[i].getBBox();
+		header_rects0[i].setAttributeNS(null, "width",40 + headtxtbox.width);
+		const headrecbox = header_rects0[i].getBBox();
+		header_texts0[i].setAttributeNS(null, "x",headrecbox.x + headrecbox.width/2);//to center align the text within the box
+		header_texts0[i].setAttributeNS(null, "y",headrecbox.y + headrecbox.height/2);
+				
+	}		
+}
+function setWidth1() {
+//set width based on the amount of text	
+	for (let i=0; i<header_rects1.length; i++) {
+		const headtxtbox = header_texts1[i].getBBox();
+		header_rects1[i].setAttributeNS(null, "width",40 + headtxtbox.width);
+		const headrecbox = header_rects1[i].getBBox();
+		header_texts1[i].setAttributeNS(null, "x",headrecbox.x + headrecbox.width/2);//to center align the text within the box
+		header_texts1[i].setAttributeNS(null, "y",headrecbox.y + headrecbox.height/2);
+				
+	}		
+}
+function setWidth2() {
+//set width based on the amount of text	
+	for (let i=0; i<header_rects2.length; i++) {
+		const headtxtbox = header_texts2[i].getBBox();
+		header_rects2[i].setAttributeNS(null, "width",40 + headtxtbox.width);
+		const headrecbox = header_rects2[i].getBBox();
+		header_texts2[i].setAttributeNS(null, "x",headrecbox.x + headrecbox.width/2);//to center align the text within the box
+		header_texts2[i].setAttributeNS(null, "y",headrecbox.y + headrecbox.height/2);
+				
+	}		
+}
+function setWidth3() {
+//set width based on the amount of text	
+	for (let i=0; i<header_rects3.length; i++) {
+		const headtxtbox = header_texts3[i].getBBox();
+		header_rects3[i].setAttributeNS(null, "width",40 + headtxtbox.width);
+		const headrecbox = header_rects3[i].getBBox();
+		header_texts3[i].setAttributeNS(null, "x",headrecbox.x + headrecbox.width/2);//to center align the text within the box
+		header_texts3[i].setAttributeNS(null, "y",headrecbox.y + headrecbox.height/2);
+				
+	}		
+}
+
+//setPos0-setPos4 function are for setting each row position based on the width of each row	
+function setPos0() {	
+	let val=0;
+	let newx=0;
+	var totalv =0;
+	
+	for (let j=1; j<=header_gtags0.length; j++) {		
+				const headrecbox = header_rects0[j-1].getBBox();
+				const prevheadrecbox = header_rects0[j-1].getBBox(); //how is this working? both headrecbox and prevheadrecbox will be same,right?				
+				
+				newx = headrecbox.x+headrecbox.width + 51;
+				val = val+newx-(prevheadrecbox.x);
+				if(j<header_gtags0.length){
+					header_gtags0[j].setAttributeNS(null, "transform", `translate(${val}, 0)`);
+				}		
+								
+				totalv = totalv+headrecbox.width+45;
+				
+			}
+	newval=(header.width-totalv)/2;	
+	
+	svg0.setAttributeNS(null, "x", newval);
+		
+}
+function setPos1() {
+	let val=0;
+	let newx=0;
+	var totalv =0;
+	
+		for (let j=1, k=1; k<=header_gtags1.length; j++, k++) {
+				const headrecbox = header_rects1[j-1].getBBox();
+				const prevheadrecbox = header_rects1[j-1].getBBox();				
+				newx = headrecbox.x+headrecbox.width + 51;
+				val = val+newx-(prevheadrecbox.x);
+				if(k<header_gtags1.length){
+					header_gtags1[k].setAttributeNS(null, "transform", `translate(${val}, 0)`);
+				}				
+				totalv = totalv+headrecbox.width+45;					
+		}
+	newval=(header.width-totalv)/2;	
+	svg1.setAttributeNS(null, "x", newval);
+		
+}
+
+function setPos2() {	
+	let val=0;
+	let newx=0;
+	var totalv =0;	
+		for (let j=1, k=1; k<=header_gtags2.length; j++, k++) {
+				const headrecbox = header_rects2[j-1].getBBox();	
+				const prevheadrecbox = header_rects2[j-1].getBBox();
+				newx = headrecbox.x+headrecbox.width + 51;
+				val = val+newx-(prevheadrecbox.x);
+				if(k<header_gtags2.length){
+					header_gtags2[k].setAttributeNS(null, "transform", `translate(${val}, 0)`);
+				}				
+				totalv = totalv+headrecbox.width+45;					
+		}
+	newval=(header.width-totalv)/2;	
+	svg2.setAttributeNS(null, "x", newval);
+		
+}
+
+function setPos3() {	
+	let val=0;
+	let newx=0;
+	var totalv =0;	
+	
+	for (let j=1, k=1; k<=header_gtags3.length; j++, k++) {		
+				const headrecbox = header_rects3[j-1].getBBox();	
+				const prevheadrecbox = header_rects3[j-1].getBBox();
+				newx = headrecbox.x+headrecbox.width + 51;					
+				if(k<header_gtags3.length){
+					val = val+newx-(prevheadrecbox.x);
+					header_gtags3[k].setAttributeNS(null, "transform", `translate(${val}, 0)`);
+				}				
+				totalv = totalv+headrecbox.width+45;					
+		}
+	newval=(header.width-totalv)/2;
+	svg3.setAttributeNS(null, "x", newval);
+	
+	
+			
+}
+
+//automatic wrapping of long string of text in del titles. First get all tspans from all 3 columns. Then write function to add a new tspan everytime the text is too long
+const tspans = document.getElementById("col1").getElementsByTagName("tspan");
+const tspans1 = document.getElementById("col2").getElementsByTagName("tspan");
+const tspans2 = document.getElementById("col3").getElementsByTagName("tspan"); 
+
+function wrapTextInTspans() {
+  const maxWidth = 550;
+  
+  for (let i = 0; i < tspans.length; i++) {
+    const tspan = tspans[i];
+    const words = tspan.textContent.trim().split(' ');
+    let line = '';
+    let currentTspan = tspan;
+    let newTspan;
+	
+    for (let j = 0; j < words.length; j++) {
+      const testLine = line + words[j] + ' ';
+      const metrics = currentTspan.getSubStringLength(0, testLine.length);
+	  
+      if (metrics > maxWidth && j > 0) {
+        newTspan = document.createElementNS("http://www.w3.org/2000/svg", "tspan");
+        newTspan.setAttributeNS(null, "x", 0);
+        newTspan.setAttributeNS(null, "dy", 25);
+        newTspan.classList.add("st12", "st13");
+        newTspan.textContent = words.slice(j).join(' ');
+        currentTspan.textContent = line.trim();
+        currentTspan.parentNode.insertBefore(newTspan, currentTspan.nextSibling);
+        break; // No need to continue processing words for this tspan
+      } else {
+        line = testLine;
+      }
+    }
+  }
+}
+function wrapTextInTspans1() {
+  const maxWidth = 550;
+  
+  for (let i = 0; i < tspans1.length; i++) {
+    const tspan = tspans1[i];
+    const words = tspan.textContent.trim().split(' ');
+    let line = '';
+    let currentTspan = tspan;
+    let newTspan;
+	
+    for (let j = 0; j < words.length; j++) {
+      const testLine = line + words[j] + ' ';
+      const metrics = currentTspan.getSubStringLength(0, testLine.length);
+	  
+      if (metrics > maxWidth && j > 0) {
+        newTspan = document.createElementNS("http://www.w3.org/2000/svg", "tspan");
+        newTspan.setAttributeNS(null, "x", 0);
+        newTspan.setAttributeNS(null, "dy", 25);
+        newTspan.classList.add("st12", "st13");
+        newTspan.textContent = words.slice(j).join(' ');
+        currentTspan.textContent = line.trim();
+        currentTspan.parentNode.insertBefore(newTspan, currentTspan.nextSibling);
+        break; // No need to continue processing words for this tspan
+      } else {
+        line = testLine;
+      }
+    }
+  }
+}
+function wrapTextInTspans2() {
+  const maxWidth = 550;
+  
+  for (let i = 0; i < tspans2.length; i++) {
+    const tspan = tspans2[i];
+    const words = tspan.textContent.trim().split(' ');
+    let line = '';
+    let currentTspan = tspan;
+    let newTspan;
+	
+    for (let j = 0; j < words.length; j++) {
+      const testLine = line + words[j] + ' ';
+      const metrics = currentTspan.getSubStringLength(0, testLine.length);
+	  
+      if (metrics > maxWidth && j > 0) {
+        newTspan = document.createElementNS("http://www.w3.org/2000/svg", "tspan");
+        newTspan.setAttributeNS(null, "x", 0);
+        newTspan.setAttributeNS(null, "dy", 25);
+        newTspan.classList.add("st12", "st13");
+        newTspan.textContent = words.slice(j).join(' ');
+        currentTspan.textContent = line.trim();
+        currentTspan.parentNode.insertBefore(newTspan, currentTspan.nextSibling);
+        break; // No need to continue processing words for this tspan
+      } else {
+        line = testLine;
+      }
+    }
+  }
+}
+
+      wrapTextInTspans();
+	  wrapTextInTspans1();
+	  wrapTextInTspans2();	
+	
+
+//set the height based on the amount of text and relative positioning of each box
+const texttags = document.getElementById("col1").getElementsByTagName("text");
+const rectags = document.getElementById("col1").getElementsByTagName("rect");
+const gtags = document.getElementById("col1").getElementsByTagName("g");
+
+const texttags1 = document.getElementById("col2").getElementsByTagName("text");
+const rectags1 = document.getElementById("col2").getElementsByTagName("rect");
+const gtags1 = document.getElementById("col2").getElementsByTagName("g");
+
+const texttags2 = document.getElementById("col3").getElementsByTagName("text");
+const rectags2 = document.getElementById("col3").getElementsByTagName("rect");
+const gtags2 = document.getElementById("col3").getElementsByTagName("g");
+
+
+function setHeight() {
+//set height based on the amount of text
+	
+	for (let i=0; i<rectags.length; i++) {
+		if(rectags[i].id!=""){
+			
+			const textbox = texttags[i].getBBox();
+			rectags[i].setAttributeNS(null, "height",210 + textbox.height);
+			rectags[i+1].setAttributeNS(null, "height", textbox.height);
+			
+		}
+	}
+	
+//set postition of each box relative to the other boxes in the same column	
+
+	const baseH = ["1333", "1093", "883", "413", "653"];
+	let offsetVal = 0;
+	
+	for (let i=1; i<gtags.length; i++) {	
+			
+			const currH = gtags[i-1].getBBox().height;			
+			
+			offsetVal = offsetVal+(currH - baseH[i-1]);				
+						
+			for (let j=i; j<gtags.length; j++) {
+				
+				gtags[j].setAttributeNS(null, "transform", `translate(0, ${offsetVal})`);
+			}			
+							
+	}
+}
+
+function setHeight1() {
+//set height based on the amount of text
+
+	for (let i=0; i<rectags1.length; i++) {
+		if(rectags1[i].id!=""){
+			const textbox1 = texttags1[i].getBBox();
+			rectags1[i].setAttributeNS(null, "height",210 + textbox1.height);
+			rectags1[i+1].setAttributeNS(null, "height", textbox1.height);
+			
+		}
+	}
+
+//set postition of each box relative to the other boxes in the same column	
+	const baseH1 = ["853", "573", "591", "773", "391", "404", "1046"];
+	let offsetVal1 = 0;
+	
+	for (let i=1; i<gtags1.length; i++) {	
+			
+			const currH1 = gtags1[i-1].getBBox().height;			
+			
+			offsetVal1 = offsetVal1+(currH1 - baseH1[i-1]);				
+						
+			for (let j=i; j<gtags1.length; j++) {
+				gtags1[j].setAttributeNS(null, "transform", `translate(0, ${offsetVal1})`);
+			}			
+							
+	}
+}
+
+function setHeight2() {	
+
+	for (let i=0; i<rectags2.length; i++) {
+	
+		if(rectags2[i].id!=""){
+			const textbox2 = texttags2[i].getBBox();
+			rectags2[i].setAttributeNS(null, "height",210 + textbox2.height);
+			rectags2[i+1].setAttributeNS(null, "height", textbox2.height);			
+		}
+	}
+
+//set postition of each box relative to the other boxes in the same column	
+	const baseH2 = ["363", "813", "373", "963", "573", "483", "573"];
+	let offsetVal2 = 0;
+	
+	for (let i=1; i<gtags2.length; i++) {	
+			
+			const currH2 = gtags2[i-1].getBBox().height;			
+			
+			offsetVal2 = offsetVal2+(currH2 - baseH2[i-1]);				
+						
+			for (let j=i; j<gtags2.length; j++) {
+				gtags2[j].setAttributeNS(null, "transform", `translate(0, ${offsetVal2})`);
+			}			
+							
+	}
+
+}
+
+
+setWidth0();
+setWidth1();
+setWidth2();
+setWidth3();
+setPos0();
+setPos1();
+setPos2();
+setPos3();
+setHeight();
+setHeight1();
+setHeight2();
+};
+
+
+//get the link id that was clicked and use it to change the fill color of the bucket boxes. also call clearFunction
+function focusFunction(btnId) {
+	
+	clearFunction();
+	
+	if(btnId==="vislink"){	
+  	document.getElementById("visbox").style.fill = "#c2ffff";	
+    document.getElementById("visbox").scrollIntoView();
+	} 
+	else if (btnId==="simlink"){	
+	 document.getElementById("simbox").style.fill = "#c2ffff";
+	 document.getElementById("simbox").scrollIntoView();
+	}
+	else if (btnId==="fundlink"){	
+	 document.getElementById("fundabox").style.fill = "#c2ffff";
+	 document.getElementById("fundabox").scrollIntoView();
+	}
+	else if (btnId==="deplink"){	
+	 document.getElementById("depbox").style.fill = "#c2ffff";	
+	 document.getElementById("depbox").scrollIntoView();
+	}
+	else if (btnId==="custlink"){	
+	 document.getElementById("custbox").style.fill = "#c2ffff";
+	 document.getElementById("custbox").scrollIntoView();
+	}
+	else if (btnId==="adminlink"){	
+	 document.getElementById("adminbox").style.fill = "#c2ffff";
+	 document.getElementById("adminbox").scrollIntoView();
+	}
+	else if (btnId==="bomlink"){	
+	 document.getElementById("bombox").style.fill = "#c2ffff";
+	 document.getElementById("bombox").scrollIntoView();
+	}
+	else if (btnId==="classlink"){	
+	 document.getElementById("classbox").style.fill = "#c2ffff";
+	 document.getElementById("classbox").scrollIntoView();
+	}
+	else if (btnId==="doclink"){	
+	 document.getElementById("docbox").style.fill = "#c2ffff";
+	 document.getElementById("docbox").scrollIntoView();
+	}
+	else if (btnId==="ecadlink"){	
+	 document.getElementById("ecadbox").style.fill = "#c2ffff";
+	 document.getElementById("ecadbox").scrollIntoView();
+	}
+	else if (btnId==="indlink"){	
+	 document.getElementById("indbox").style.fill = "#c2ffff";
+	 document.getElementById("indbox").scrollIntoView();
+	}
+	else if (btnId==="mfglink"){	
+	 document.getElementById("mfgbox").style.fill = "#c2ffff";
+	 document.getElementById("mfgbox").scrollIntoView();
+	}
+	else if (btnId==="proclink"){	
+	 document.getElementById("procbox").style.fill = "#c2ffff";
+	 document.getElementById("procbox").scrollIntoView();
+	}
+	else if (btnId==="configlink"){	
+	 document.getElementById("configbox").style.fill = "#c2ffff";
+	 document.getElementById("configbox").scrollIntoView();
+	}
+	else if (btnId==="qualink"){
+	 document.getElementById("quabox").style.fill = "#c2ffff";
+	 document.getElementById("quabox").scrollIntoView();
+	}
+	else if (btnId==="slmlink"){	
+	 document.getElementById("slmbox").style.fill = "#c2ffff";
+	 document.getElementById("slmbox").scrollIntoView();
+	}
+	else if (btnId==="sublink"){	
+	 document.getElementById("subbox").style.fill = "#c2ffff";
+	 document.getElementById("subbox").scrollIntoView();
+	}
+	else if (btnId==="suppcolink"){	
+	 document.getElementById("suppbox").style.fill = "#c2ffff";
+	 document.getElementById("suppbox").scrollIntoView();
+	}
+	else if (btnId==="syslink"){	
+	 document.getElementById("sysbox").style.fill = "#c2ffff";
+	 document.getElementById("visbox").scrollIntoView();
+	}
+	
+}
+//function to set all bucket boxes' color to white
+ function clearFunction(){
+ 	
+  document.getElementById("simbox").style.fill = "#FFFFFF";
+  document.getElementById("visbox").style.fill = "#FFFFFF";
+  document.getElementById("fundabox").style.fill = "#FFFFFF";
+  document.getElementById("depbox").style.fill = "#FFFFFF";
+  document.getElementById("custbox").style.fill = "#FFFFFF";
+  document.getElementById("adminbox").style.fill = "#FFFFFF";
+  document.getElementById("bombox").style.fill = "#FFFFFF";
+  document.getElementById("classbox").style.fill = "#FFFFFF";
+  document.getElementById("docbox").style.fill = "#FFFFFF";
+  document.getElementById("ecadbox").style.fill = "#FFFFFF";
+  document.getElementById("indbox").style.fill = "#FFFFFF";
+  document.getElementById("mfgbox").style.fill = "#FFFFFF";
+  document.getElementById("procbox").style.fill = "#FFFFFF";
+  document.getElementById("configbox").style.fill = "#FFFFFF";
+  document.getElementById("quabox").style.fill = "#FFFFFF";
+  document.getElementById("slmbox").style.fill = "#FFFFFF";
+  document.getElementById("sysbox").style.fill = "#FFFFFF";
+  document.getElementById("suppbox").style.fill = "#FFFFFF";
+  document.getElementById("subbox").style.fill = "#FFFFFF";
+}
+   
+]]>
+</script> 
+</svg>
